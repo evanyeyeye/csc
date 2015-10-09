@@ -1,0 +1,129 @@
+.title {
+	background-color:#23527C;
+	background-repeat:repeat-x;
+	color:white;
+	display:block;
+	
+}
+::selection {
+  background: #b7b7ff; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #b7b7ff; /* Gecko Browsers */
+}
+h2.featurette-heading {
+	margin-top:60px;
+}
+.container.start {
+	margin-top:30px;
+}
+hr.featurette-divider {
+	margin-top:30px;
+	margin-bottom:30px;
+}
+@media screen and (max-width:991px) {
+	h2.featurette-heading {
+		margin-top:30px;
+	}
+	.container.start {
+		margin-top:0;
+	}
+}
+h1.title {
+	font-size:25px;
+}
+@media screen and (min-width:400px) {
+	h1.title {
+		font-size:50px;
+	}
+}
+p.description {
+	text-align:center;
+}
+.officer p.lead {
+	margin-bottom:0;
+	word-break:break-word;
+	text-overflow:auto;
+	white-space:nowrap;
+	overflow-x:hidden;
+}
+.officer img {
+	margin-bottom:20px;
+}
+.officer h4 {
+	margin-top:0;
+}
+#map-canvas {
+	height:300px;
+}
+p.sub {
+	color:#AAAAAA;
+}
+html {
+	text-align:center;
+	background-color:#EEEEEE;
+}
+body {
+	padding-bottom:0;
+}
+.main {
+	position:relative;
+	/* background-image:url('../images/back2.png'); */
+}
+.footer {
+	text-align:right;
+	margin-top:10px;
+}
+.icon-bar {
+	background-color:#337AB7;
+}
+.btn-outline {
+    background-color: transparent;
+    border-color:white;
+    color:white;
+    transition: all .1s;
+}
+
+.btn-primary.btn-outline {
+    color: white;
+    background-color:#23527C;
+}
+
+.btn-success.btn-outline {
+    color: #5cb85c;
+}
+
+.btn-info.btn-outline {
+    color: #5bc0de;
+}
+
+.btn-warning.btn-outline {
+    color: #f0ad4e;
+}
+
+.btn-danger.btn-outline {
+    color: #d9534f;
+}
+.btn-primary.btn-outline:hover,
+.btn-primary.btn-outline:active,
+.btn-success.btn-outline:hover,
+.btn-success.btn-outline:active,
+.btn-info.btn-outline:hover,
+.btn-info.btn-outline:active,
+.btn-warning.btn-outline:hover,
+.btn-warning.btn-outline:active,
+.btn-danger.btn-outline:hover,
+.btn-danger.btn-outline:active {
+color: #23527C;
+background-color:white;
+border-color:white;
+}
+p.name {
+	font-size: 20px;
+}
+a {
+	color:#23527C;
+}
+a.inline {
+	color:#4362BC;
+}

@@ -40,12 +40,11 @@ h1.title {
 p.description {
 	text-align:center;
 }
+
 .officer p.lead {
 	margin-bottom:0;
 	word-break:break-word;
-	text-overflow:auto;
 	white-space:nowrap;
-	overflow-x:hidden;
 }
 .officer img {
 	margin-bottom:20px;

@@ -34,6 +34,8 @@ hr.featurette-divider {
 }
 h1.title {
 	font-size:25px;
+	margin-top:20px;
+	margin-bottom:20px;
 }
 @media screen and (min-width:400px) {
 	h1.title {

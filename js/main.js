@@ -1,9 +1,10 @@
-$(function() {
+/* $(function() {
 	window.setTimeout(unhide,500);
 });
 function unhide() {
 	$('.shell-inv').removeClass('shell-inv')
 }
+*/
 $(document).ready(function(){
 	$('a[href*=#]').click(function() {
 		if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {

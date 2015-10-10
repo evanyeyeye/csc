@@ -42,6 +42,9 @@ h1.title {
 		font-size:50px;
 	}
 }
+.shell-inv {
+	display:none;
+}
 @media screen and (min-width:992px) and (max-width:1199px){
 	#ctf p.ctf {
 		width:450px;
@@ -53,7 +56,7 @@ h1.title {
 	}
 }
 @media screen and (max-width:500px) {
-	.shell {
+	.shell iframe {
 		display:none;
 	}
 }

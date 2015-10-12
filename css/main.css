@@ -3,7 +3,6 @@
 	background-repeat:repeat-x;
 	color:white;
 	display:block;
-	
 }
 ::selection {
   background: #b7b7ff; /* WebKit/Blink Browsers */
@@ -83,9 +82,18 @@ p.description {
 p.sub {
 	color:#AAAAAA;
 }
+/* 
+@font-face {
+	font-family:nexa;
+	src:url('../fonts/nexa.otf');
+}
+*/
 html {
 	text-align:center;
 	background-color:#EEEEEE;
+}
+h1, h2, h3, h4, h5, h6, p, a {
+	font-family:'Open Sans',sans-serif, Helvetica;
 }
 body {
 	padding-bottom:0;

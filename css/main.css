@@ -42,9 +42,9 @@ h1.title {
 		font-size:50px;
 	}
 }
-/*
 .shell-inv {
 	display:none;
+	top:-9999px;
 }
 @media screen and (min-width:992px) and (max-width:1199px){
 	#ctf p.ctf {
@@ -52,7 +52,7 @@ h1.title {
 		margin-left:auto;
 		margin-right:auto;
 	}
-	#ctf iframe {
+	#ctf iframe, .shell {
 		padding-left:0;
 	}
 }
@@ -61,7 +61,6 @@ h1.title {
 		display:none;
 	}
 }
-*/
 p.description {
 	text-align:center;
 }
@@ -116,7 +115,6 @@ body {
     color:white;
     transition: all .1s;
 }
-
 .btn-primary.btn-outline {
     color: white;
     background-color:#23527C;

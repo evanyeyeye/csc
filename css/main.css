@@ -138,9 +138,9 @@ body {
 .btn-warning.btn-outline:active,
 .btn-danger.btn-outline:hover,
 .btn-danger.btn-outline:active {
-color: #23527C;
-background-color:white;
-border-color:white;
+	color: #23527C;
+	background-color:white;
+	border-color:white;
 }
 p.name {
 	font-size: 20px;
@@ -149,5 +149,10 @@ a {
 	color:#23527C;
 }
 a.inline {
-	color:#4362BC;
+    transition: all .1s;
+	color:#23527C;
+}
+a.inline:hover {
+	color:lightblue;
+	text-decoration:none;
 }

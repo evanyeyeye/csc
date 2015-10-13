@@ -157,3 +157,9 @@ a.inline:hover {
 	color:lightblue;
 	text-decoration:none;
 }
+.keyboard-container {
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:15px;
+	padding-right:15px;
+}

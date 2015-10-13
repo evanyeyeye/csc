@@ -57,7 +57,7 @@ h1.title {
 	}
 }
 @media screen and (max-width:500px) {
-	.shell iframe {
+	.shell, iframe {
 		display:none;
 	}
 }

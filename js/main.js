@@ -19,11 +19,13 @@ $(document).ready(function(){
 	});
 });
 setTimeout(function() {
-$(".shell-inv").show(function() {
-	$(this).find("iframe").prop("src",function(){
-		return $(this).data("src");
-	});
-});
+	if($(window).width() > 500) {
+		$(".shell-inv").show(function() {
+			$(this).find("iframe").prop("src",function(){
+				return $(this).data("src");
+			});
+		});
+	}
 },1000);
 setTimeout(function() {
 	$(".shell-inv").removeClass("shell-inv");

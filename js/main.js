@@ -17,16 +17,13 @@ $(document).ready(function(){
 			}
 		}
 	});
-});
-setTimeout(function() {
+
 	if($(window).width() > 500) {
 		$(".shell-inv").show(function() {
 			$(this).find("iframe").prop("src",function(){
 				return $(this).data("src");
 			});
+			setTimeout(function(){$(".shell-inv").removeClass("shell-inv");},1000);
 		});
 	}
-},1000);
-setTimeout(function() {
-	$(".shell-inv").removeClass("shell-inv");
-},2000);
+});

@@ -1,2 +1,3 @@
-# Second CSC website
-For real this time
+# TJHSST Computer Security Club
+
+https://activities.tjhsst.edu/csc/

@@ -60,6 +60,9 @@ h1.title {
     .shell, iframe {
         display:none;
     }
+    #ctf-list .status h3 {
+        font-size: 1.25em;
+    }
 }
 p.description {
     text-align:center;
@@ -172,4 +175,18 @@ img.shadow-image {
 #schedule .panel .panel-body {
     border: 1px solid #ccc;
     border-top: none;
+}
+#ctf-list .status {
+    text-align: right;
+}
+#ctf-list .info {
+    text-align: left;
+}
+#ctf-list .info .list-group-item-text {
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+}
+#ctf-list .status h3 {
+    margin: 6px;
 }

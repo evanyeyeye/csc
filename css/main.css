@@ -42,10 +42,6 @@ h1.title {
         font-size:50px;
     }
 }
-.shell-inv {
-    display:none;
-    top:-9999px;
-}
 @media screen and (min-width:992px) and (max-width:1199px){
     #ctf p.ctf {
         width:450px;
@@ -175,6 +171,9 @@ img.shadow-image {
 #schedule .panel .panel-body {
     border: 1px solid #ccc;
     border-top: none;
+}
+#schedule .panel.done .panel-heading {
+    background-color: #1B5E20;
 }
 #schedule .panel .panel-body a.btn {
     margin-right: 3px;

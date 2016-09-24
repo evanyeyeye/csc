@@ -176,6 +176,9 @@ img.shadow-image {
     border: 1px solid #ccc;
     border-top: none;
 }
+#schedule .panel .panel-body a.btn {
+    margin-right: 3px;
+}
 #ctf-list .status {
     text-align: right;
 }

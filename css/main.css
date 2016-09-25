@@ -204,6 +204,6 @@ img.shadow-image {
 .participants.shown b:after {
     content: " (click to hide)";
 }
-.participants ul {
+.participants table {
     display: none;
 }

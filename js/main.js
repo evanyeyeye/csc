@@ -21,6 +21,6 @@ $(document).ready(function(){
         e.preventDefault();
         var p = $(this).closest(".participants")
         p.toggleClass("shown");
-        p.find("ul").slideToggle();
+        p.find("table").toggle();
     });
 });

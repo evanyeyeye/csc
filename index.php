@@ -211,11 +211,7 @@ foreach ($data as $key => $val) {
         echo '<div class="participants"><b>Participants</b><table class="table">';
         echo '<thead><tr><th>Rank</th><th>Team Name</th></tr></thead><tbody>';
         foreach($val->participants as $val2) {
-            echo '<tr>';
-            foreach ($val2 as $val3) {
-                echo '<td>' . $val3 . '</td>';
-            }
-            echo '</tr>';
+            echo '<tr><td>' . $val2[0] . '</td><td>' . $val2[1] . '</td></tr>';
         }
         echo '</tbody></table></div>';
     }

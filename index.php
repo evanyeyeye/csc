@@ -24,7 +24,7 @@
                         TJCSC
                         <!--<span class="caret"></span>-->
                     </a>
-					<!--
+                    <!--
                     <ul class="dropdown-menu" style="left:inherit;">
                         <li><a href="//activities.tjhsst.edu/csc/old">Old CSC Site</a></li>
                     </ul> -->
@@ -201,150 +201,28 @@
                             <br>
                             <p class="lead">Past and Upcoming High School CTFs</p>
                             <ul class="list-group">
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-xs-8 info">
-                                            <h4 class="list-group-item-heading"><a href="https://csaw.engineering.nyu.edu/hsf">CSAW HSF 2016</a></h4>
-                                            <p class="list-group-item-text">Date: September 28 - October 8, 2016</p>
-                                        </div>
-                                        <div class="col-xs-4 status">
-                                            <h3>Upcoming</h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-xs-8 info">
-                                            <h4 class="list-group-item-heading"><a href="http://mitrecyberacademy.org/competitions/">MITRE CTF 2016</a></h4>
-                                            <p class="list-group-item-text">Date: September 16 - 17, 2016</p>
-                                        </div>
-                                        <div class="col-xs-4 status">
-                                            <h3>Finished</h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-xs-8 info">
-                                            <h4 class="list-group-item-heading"><a href="http://abctf.xyz/">ABCTF</a></h4>
-                                            <p class="list-group-item-text">Date: July 15 - 22, 2016</p>
-                                            <div class="participants">
-                                                <b>Participants</b>
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr><th>Rank</th><th>Team Name</th></tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr><td>1</td><td>µ's</td></tr>
-                                                        <tr><td>106</td><td>Some Random Team</td></tr>
-                                                        <tr><td>288</td><td>hungry hippos</td></tr>
-                                                        <tr><td>332</td><td>i try so hard but its still so small</td></tr>
-                                                        <tr><td>412</td><td>wumbii</td></tr>
-                                                        <tr><td>637</td><td>Blue</td></tr>
-                                                        <tr><td>681</td><td>I Don't Have a Team Name</td></tr>
-                                                        <tr><td>719</td><td>bunny</td></tr>
-                                                    </tbody>
-                                                </table>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-4 status">
-                                            <h3>Finished</h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-xs-8 info">
-                                            <h4 class="list-group-item-heading"><a href="https://tjctf.org/">TJCTF 2016</a></h4>
-                                            <p class="list-group-item-text">Date: May 27 - 30, 2016</p>
-                                        </div>
-                                        <div class="col-xs-4 status">
-                                            <h3>Finished</h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-xs-8 info">
-                                            <h4 class="list-group-item-heading"><a href="https://sctf.io/competitions">sCTF 2016 Q1</a></h4>
-                                            <p class="list-group-item-text">Date: April 8 - 15, 2016</p>
-                                        </div>
-                                        <div class="col-xs-4 status">
-                                            <h3>Finished</h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-xs-8 info">
-                                            <h4 class="list-group-item-heading"><a href="https://easyctf.com/">EasyCTF 2015</a></h4>
-                                            <p class="list-group-item-text">Date: October 31 - November 11, 2015</p>
-                                        </div>
-                                        <div class="col-xs-4 status">
-                                            <h3>Finished</h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-xs-8 info">
-                                            <h4 class="list-group-item-heading"><a href="https://picoctf.com/">picoCTF 2014</a></h4>
-                                            <p class="list-group-item-text">Date: October 27 - November 7, 2014</p>
-                                            <div class="participants">
-                                                <b>Participants</b>
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr><th>Rank</th><th>Team Name</th></tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr><td>3</td><td>Raelly</td></tr>
-                                                        <tr><td>4</td><td>Shark Fins</td></tr>
-                                                        <tr><td>6</td><td>TJ CSL</td></tr>
-                                                        <tr><td>20</td><td>Cutie Mark Crusaders</td></tr>
-                                                        <tr><td>44</td><td>PCTFCP</td></tr>
-                                                        <tr><td>69</td><td>JAKEBAKE</td></tr>
-                                                        <tr><td>92</td><td>no weebs allowed</td></tr>
-                                                        <tr><td>109</td><td>pmRoom</td></tr>
-                                                        <tr><td>134</td><td>TJ DC</td></tr>
-                                                        <tr><td>140</td><td>0x0000023</td></tr>
-                                                        <tr><td>161</td><td>1337 Hackers</td></tr>
-                                                        <tr><td>214</td><td>#yolo</td></tr>
-                                                        <tr><td>241</td><td>FirstThingsFirstYOLO</td></tr>
-                                                        <tr><td>243</td><td>Hello</td></tr>
-                                                        <tr><td>301</td><td>qwefisveryreliable</td></tr>
-                                                        <tr><td>452</td><td>ARC</td></tr>
-                                                        <tr><td>474</td><td>TJGators</td></tr>
-                                                        <tr><td>478</td><td>The Nerd Herd</td></tr>
-                                                        <tr><td>540</td><td>ATJ</td></tr>
-                                                        <tr><td>547</td><td>NimboNoobulus</td></tr>
-                                                        <tr><td>558</td><td>TeamCSC</td></tr>
-                                                        <tr><td>836</td><td>DGlazeIt</td></tr>
-                                                        <tr><td>853</td><td>tjcsc</td></tr>
-                                                        <tr><td>908</td><td>BitChip</td></tr>
-                                                        <tr><td>935</td><td>silentAssassins</td></tr>
-                                                        <tr><td>1055</td><td>NNN</td></tr>
-                                                        <tr><td>1091</td><td>Leftovers</td></tr>
-                                                        <tr><td>1141</td><td>We_JUST_STARTED_NOV6</td></tr>
-                                                        <tr><td>1146</td><td>jcotton42</td></tr>
-                                                        <tr><td>1208</td><td>OttSM</td></tr>
-                                                        <tr><td>1246</td><td>weeaboo</td></tr>
-                                                        <tr><td>1360</td><td>Team Won</td></tr>
-                                                        <tr><td>1510</td><td>HackBusters</td></tr>
-                                                        <tr><td>1635</td><td>Kappa</td></tr>
-                                                        <tr><td>2266</td><td>WizKids</td></tr>
-                                                        <tr><td>2421</td><td>1383133</td></tr>
-                                                        <tr><td>2579</td><td>goodbyeworld</td></tr>
-                                                        <tr><td>2915</td><td>Arcrascent</td></tr>
-                                                        <tr><td>3056</td><td>Nandroid</td></tr>
-                                                    </tbody>
-                                                </table>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-4 status">
-                                            <h3>Finished</h3>
-                                        </div>
-                                    </div>
-                                </li>
+<?php
+$data = json_decode(file_get_contents("ctfs.json"));
+foreach ($data as $key => $val) {
+    echo '<li class="list-group-item">';
+    echo '<div class="info"><h4 class="list-group-item-heading"><a href="' . $val->url . '" target="_blank">' . $key . '</a></h4>';
+    echo '<p class="list-group-item-text">Date: ' . $val->date . '</p></div>';
+    echo '<h3 class="status">' . $val->status . '</h3>';
+    if (property_exists($val, "participants")) {
+        echo '<div class="participants"><b>Participants</b><table class="table">';
+        echo '<thead><tr><th>Rank</th><th>Team Name</th></tr></thead><tbody>';
+        foreach($val->participants as $val2) {
+            echo '<tr>';
+            foreach ($val2 as $val3) {
+                echo '<td>' . $val3 . '</td>';
+            }
+            echo '</tr>';
+        }
+        echo '</tbody></table></div>';
+    }
+    echo '</li>';
+}
+?>
                             </ul>
                         </div>
                         <div class="col-md-2"></div>

@@ -1,0 +1,86 @@
+{
+    "CSAW HSF 2016": {
+        "url": "https://csaw.engineering.nyu.edu/hsf",
+        "date": "September 28 - October 8, 2016",
+        "status": "Upcoming"
+    },
+    "MITRE CTF 2016": {
+        "url": "http://mitrecyberacademy.org/competitions/",
+        "date": "September 16 - 17, 2016",
+        "status": "Finished",
+        "participants": [
+            [13, "The Flying Penguins"]
+        ]
+    },
+    "ABCTF 2016": {
+        "url": "http://abctf.xyz",
+        "date": "July 15 - 22, 2016",
+        "status": "Finished",
+        "participants": [
+            [1, "µ's"],
+            [106, "Some Random Team"],
+            [288, "hungry hippos"],
+            [332, "i try so hard but its still so small"],
+            [412, "wumbii"],
+            [637, "Blue"],
+            [681, "I Don't Have a Team Name"],
+            [719, "bunny"]
+        ]
+    },
+    "TJCTF 2016": {
+        "url": "https://tjctf.org/",
+        "date": "May 27 - 30, 2016",
+        "status": "Finished"
+    },
+    "EasyCTF 2015": {
+        "url": "https://easyctf.com/",
+        "date": "October 31 - November 11, 2015",
+        "status": "Finished"
+    },
+    "picoCTF 2014": {
+        "url": "https://picoctf.com/",
+        "date": "October 27 - November 7, 2014",
+        "status": "Finished",
+        "participants": [
+            [3, "Raelly"],
+            [4, "Shark Fins"],
+            [6, "TJ CSL"],
+            [20, "Cutie Mark Crusaders"],
+            [44, "PCTFCP"],
+            [69, "JAKEBAKE"],
+            [92, "no weebs allowed"],
+            [109, "pmRoom"],
+            [134, "TJ DC"],
+            [140, "0x0000023"],
+            [161, "1337 Hackers"],
+            [214, "#yolo"],
+            [241, "FirstThingsFirstYOLO"],
+            [243, "Hello"],
+            [301, "qwefisveryreliable"],
+            [452, "ARC"],
+            [474, "TJGators"],
+            [478, "The Nerd Herd"],
+            [540, "ATJ"],
+            [547, "NimboNoobulus"],
+            [558, "TeamCSC"],
+            [836, "DGlazeIt"],
+            [853, "tjcsc"],
+            [908, "BitChip"],
+            [935, "silentAssassins"],
+            [1055, "NNN"],
+            [1091, "Leftovers"],
+            [1141, "We_JUST_STARTED_NOV6"],
+            [1146, "jcotton42"],
+            [1208, "OttSM"],
+            [1246, "weeaboo"],
+            [1360, "Team Won"],
+            [1510, "HackBusters"],
+            [1635, "Kappa"],
+            [2266, "WizKids"],
+            [2421, "1383133"],
+            [2579, "goodbyeworld"],
+            [2915, "Arcrascent"],
+            [3056, "Nandroid"]
+        ]
+    }
+}

@@ -180,18 +180,23 @@ img.shadow-image {
     margin-right: 3px;
 }
 #ctf-list .status {
-    text-align: right;
+    margin: 6px;
+    float: right;
 }
 #ctf-list .info {
-    text-align: left;
+    float: left;
 }
-#ctf-list .info .list-group-item-text {
+#ctf-list .list-group-item {
+    text-align: left;
+    overflow: auto;
+}
+#ctf-list .list-group-item-text {
     white-space: nowrap;
     overflow-x: hidden;
     text-overflow: ellipsis;
 }
-#ctf-list .status h3 {
-    margin: 6px;
+.participants {
+    clear: both;
 }
 .participants b {
     cursor: pointer;

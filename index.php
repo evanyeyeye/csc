@@ -213,10 +213,15 @@ foreach ($data as $key => $val) {
     echo '<p class="list-group-item-text">Date: ' . $val->date . '</p></div>';
     echo '<h3 class="status">' . $val->status . '</h3>';
     if (property_exists($val, "participants")) {
+        $show_score = count($val->participants[0]) > 2;
         echo '<div class="participants"><b>TJ Participants</b><table class="table">';
-        echo '<thead><tr><th>Rank</th><th>Team Name</th></tr></thead><tbody>';
+        echo '<thead><tr><th>Rank</th><th>Team Name</th>' . ($show_score ? '<th>Score</th>' : '') . '</tr></thead><tbody>';
         foreach($val->participants as $val2) {
-            echo '<tr><td>' . $val2[0] . '</td><td>' . $val2[1] . '</td></tr>';
+            echo '<tr>';
+            foreach($val2 as $val3) {
+                echo '<td>' . $val3 . '</td>';
+            }
+            echo '</tr>';
         }
         echo '</tbody></table></div>';
     }

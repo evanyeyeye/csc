@@ -151,27 +151,26 @@
                     <div class="row">
                         <div class="col-md-12">
                             <h2 class="featurette-heading">Schedule</h2>
-                            <div class="panel">
-                                <div class="panel-heading">Basic Linux Commands, Part 1<span class="pull-right">9/28/2016</span></div>
-                                <div class="panel-body">
-                                    <p>In this meeting, Evan Shi will teach basic linux commands and how to interpret the output of some of these commands. He will introduce tools and commands that are especially useful in CTFs.</p>
-                                    <a class="btn btn-primary disabled" target="_blank">Presentation</a> <a href="http://overthewire.org/wargames/bandit/" class="btn btn-primary" target="_blank">Bandit</a>
-                                </div>
-                            </div>
-                            <div class="panel">
-                                <div class="panel-heading">Basic Linux Commands, Part 2<span class="pull-right">10/5/2016</span></div>
-                                <div class="panel-body">
-                                    <p>In this meeting, you will learn more about useful tools and commands that you can apply to CTFs.</p>
-                                    <a class="btn btn-primary disabled" target="_blank">Presentation</a>
-                                </div>
-                            </div>
-                            <div class="panel done">
-                                <div class="panel-heading">Introduction<span class="pull-right">9/21/2016</span></div>
-                                <div class="panel-body">
-                                    <p>Welcome to TJ CSC! During our first meeting, we'll talk about what we do and give you a taste of what to expect in the future.</p>
-                                    <a href="https://docs.google.com/presentation/d/1hPW4mL-lHNKoJn7AUcmuGzcIWTAllzFbWbKQJk5sXgs" class="btn btn-primary" target="_blank">Presentation</a> <a href="https://introctf.herokuapp.com/" class="btn btn-primary" target="_blank">IntroCTF</a>
-                                </div>
-                            </div>
+<?php
+$data = json_decode(file_get_contents("lectures.json"));
+foreach ($data as $key => $val) {
+    echo '<div class="panel' . (time() > strtotime($val->date) ? ' done': '') . '">
+        <div class="panel-heading">' . $key . '<span class="pull-right">' . $val->date . '</span></div>
+        <div class="panel-body">
+            <p>' .$val->body . '</p>';
+    if (property_exists($val, "links")) {
+        foreach ($val->links as $val2) {
+            if (count($val2) == 1) {
+                echo '<a class="btn btn-primary disabled">' .$val2[0] . '</a> ';
+            }
+            else {
+                echo '<a class="btn btn-primary" href="' . $val2[1] . '" target="_blank">' . $val2[0] . '</a> ';
+            }
+        }
+    }
+    echo '</div></div>';
+}
+?>
                         </div>
                     </div>
                 </div>

@@ -208,7 +208,7 @@ foreach ($data as $key => $val) {
     echo '<p class="list-group-item-text">Date: ' . $val->date . '</p></div>';
     echo '<h3 class="status">' . $val->status . '</h3>';
     if (property_exists($val, "participants")) {
-        echo '<div class="participants"><b>Participants</b><table class="table">';
+        echo '<div class="participants"><b>TJ Participants</b><table class="table">';
         echo '<thead><tr><th>Rank</th><th>Team Name</th></tr></thead><tbody>';
         foreach($val->participants as $val2) {
             echo '<tr><td>' . $val2[0] . '</td><td>' . $val2[1] . '</td></tr>';

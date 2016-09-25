@@ -35,7 +35,26 @@
     "EasyCTF 2015": {
         "url": "https://easyctf.com/",
         "date": "October 31 - November 11, 2015",
-        "status": "Finished"
+        "status": "Finished",
+        "participants": [
+            [1, "µ's", 14250],
+            [2, "not good at compute box", 14250],
+            [9, "Ryears", 12275],
+            [10, "sometaim i am cri", 11825],
+            [60, "The Men in Blackhats", 6530],
+            [88, "The Cones of Dunshire", 5325],
+            [93, "persona_non_grata", 5100],
+            [112, "sql_1nj3ct3D", 4595],
+            [146, "franklin_d_memes", 3830],
+            [166, "The Legend of The Rose", 3445],
+            [175, "Welcome to the Jam", 3230],
+            [182, "rlst", 3175],
+            [218, "DAMEJ", 2785],
+            [265, "ezpz", 2255],
+            [403, "Bunnycowsnoopyroo", 1220],
+            [537, "Just Another Team", 750],
+            [555, "EZCTF", 715]
+        ]
     },
     "picoCTF 2014": {
         "url": "https://picoctf.com/",

@@ -150,27 +150,37 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
-                            <h2 class="featurette-heading">Schedule</h2>
+                            <h2 class="featurette-heading" style="margin-top:10px">Schedule</h2>
                             <div class="panels">
 <?php
 $data = json_decode(file_get_contents("lectures.json"));
+$done = '';
 foreach ($data as $key => $val) {
-    echo '<div class="panel' . (time() > strtotime($val->date) ? ' done': '') . '">
+    $panel = '';
+    $is_done = time() > strtotime($val->date);
+    $panel .= '<div class="panel' . ($is_done ? ' done': '') . '">
         <div class="panel-heading">' . $key . '<span class="pull-right">' . $val->date . '</span></div>
         <div class="panel-body">
             <p>' .$val->body . '</p>';
     if (property_exists($val, "links")) {
         foreach ($val->links as $val2) {
             if (count($val2) == 1) {
-                echo '<a class="btn btn-primary disabled">' .$val2[0] . '</a> ';
+                $panel .= '<a class="btn btn-primary disabled">' .$val2[0] . '</a> ';
             }
             else {
-                echo '<a class="btn btn-primary" href="' . $val2[1] . '" target="_blank">' . $val2[0] . '</a> ';
+                $panel .= '<a class="btn btn-primary" href="' . $val2[1] . '" target="_blank">' . $val2[0] . '</a> ';
             }
         }
     }
-    echo '</div></div>';
+    $panel .= '</div></div>';
+    if ($is_done) {
+        $done .= $panel;
+    }
+    else {
+        echo $panel;
+    }
 }
+echo $done;
 ?>
                             </div>
                         </div>

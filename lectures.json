@@ -1,4 +1,12 @@
 {
+    "Introduction": {
+        "date": "9/21/2016",
+        "body": "Welcome to TJ CSC! During our first meeting, we'll talk about what we do and give you a taste of what to expect in the future.",
+        "links": [
+            ["Presentation", "https://docs.google.com/presentation/d/1hPW4mL-lHNKoJn7AUcmuGzcIWTAllzFbWbKQJk5sXgs"],
+            ["IntroCTF", "https://introctf.herokuapp.com/"]
+        ]
+    },
     "Basic Linux Commands, Part 1": {
         "date": "9/28/2016",
         "body": "In this meeting, Evan Shi will teach basic linux commands and how to interpret the output of some of these commands. He will introduce tools and commands that are especially useful in CTFs.",
@@ -11,15 +19,24 @@
         "date": "10/5/2016",
         "body": "In this meeting, you will learn more about useful tools and commands that you can apply to CTFs.",
         "links": [
-            ["Presentation"]
+            ["Presentation"],
+            ["Practice Problems"]
         ]
     },
-    "Introduction": {
-        "date": "9/21/2016",
-        "body": "Welcome to TJ CSC! During our first meeting, we'll talk about what we do and give you a taste of what to expect in the future.",
+    "Basic Web": {
+        "date": "10/12/2016",
+        "body": "In this lesson we will teach common types of easy web problems (ex: robots.txt, path traversal) and SQL injection.",
         "links": [
-            ["Presentation", "https://docs.google.com/presentation/d/1hPW4mL-lHNKoJn7AUcmuGzcIWTAllzFbWbKQJk5sXgs"],
-            ["IntroCTF", "https://introctf.herokuapp.com/"]
+            ["Presentation"],
+            ["Natas", "http://overthewire.org/wargames/natas/"]
+        ]
+    },
+    "Basic Cryptography": {
+        "date": "10/12/2016",
+        "body": "In this lesson we will go over classical ciphers and basic cryptanalysis techniques.",
+        "links": [
+            ["Presentation"],
+            ["Practice Problems"]
         ]
     }
 }

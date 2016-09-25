@@ -70,6 +70,7 @@ p.description {
     white-space:nowrap;
 }
 .officer img {
+    width: 100%;
     margin-bottom:20px;
 }
 .officer h4 {

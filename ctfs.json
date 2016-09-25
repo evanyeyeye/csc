@@ -9,7 +9,7 @@
         "date": "September 16 - 17, 2016",
         "status": "Finished",
         "participants": [
-            [13, "The Flying Penguins"]
+            [13, "The Flying Penguins", 510]
         ]
     },
     "ABCTF 2016": {
@@ -17,14 +17,14 @@
         "date": "July 15 - 22, 2016",
         "status": "Finished",
         "participants": [
-            [1, "µ's"],
-            [106, "Some Random Team"],
-            [288, "hungry hippos"],
-            [332, "i try so hard but its still so small"],
-            [412, "wumbii"],
-            [637, "Blue"],
-            [681, "I Don't Have a Team Name"],
-            [719, "bunny"]
+            [1, "µ's", 4505],
+            [106, "Some Random Team", 1645],
+            [288, "hungry hippos", 650],
+            [332, "i try so hard but its still so small", 490],
+            [412, "wumbii", 330],
+            [637, "Blue", 50],
+            [681, "I Don't Have a Team Name", 25],
+            [719, "bunny", 20]
         ]
     },
     "TJCTF 2016": {

@@ -212,3 +212,12 @@ img.shadow-image {
 .participants table {
     display: none;
 }
+@media (max-width: 992px) {
+    .hide-sm {
+        display: none;
+    }
+}
+.panels {
+    max-height: 600px;
+    overflow-y: auto;
+}

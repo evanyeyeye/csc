@@ -78,7 +78,7 @@
                             </div>
                         </div>
                         <div class="col-md-5">
-                            <img class="featurette-image img-responsive shadow-image" src="images/csc.png" alt="TJCSC" />
+                            <img class="featurette-image img-responsive shadow-image" src="images/club1.jpg" alt="TJCSC" />
                         </div>
                     </div>
                 </div>
@@ -149,8 +149,9 @@
             <div id="schedule">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-12">
+                        <div class="col-md-7">
                             <h2 class="featurette-heading">Schedule</h2>
+                            <div class="panels">
 <?php
 $data = json_decode(file_get_contents("lectures.json"));
 foreach ($data as $key => $val) {
@@ -171,6 +172,10 @@ foreach ($data as $key => $val) {
     echo '</div></div>';
 }
 ?>
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <img class="featurette-image img-responsive shadow-image hide-sm" src="images/csc.png" alt="TJCSC" />
                         </div>
                     </div>
                 </div>

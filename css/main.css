@@ -186,6 +186,9 @@ img.shadow-image {
 #ctf-list .info {
     float: left;
 }
+#ctf-list .list-group {
+    margin-bottom: 5px;
+}
 #ctf-list .list-group-item {
     text-align: left;
     overflow: auto;

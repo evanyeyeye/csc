@@ -224,6 +224,7 @@ foreach ($data as $key => $val) {
 }
 ?>
                             </ul>
+                            <p>For a list of more difficult CTFs, you can check out <a href="https://ctftime.org/">CTF Time</a>.</p>
                         </div>
                         <div class="col-md-2"></div>
                     </div>

@@ -17,4 +17,10 @@ $(document).ready(function(){
             }
         }
     });
+    $(".participants b").click(function(e) {
+        e.preventDefault();
+        var p = $(this).closest(".participants")
+        p.toggleClass("shown");
+        p.find("ul").slideToggle();
+    });
 });

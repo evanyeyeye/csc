@@ -192,3 +192,17 @@ img.shadow-image {
 #ctf-list .status h3 {
     margin: 6px;
 }
+.participants b {
+    cursor: pointer;
+}
+.participants b:after {
+    content: " (click to show)";
+    font-weight: normal;
+    color: #666;
+}
+.participants.shown b:after {
+    content: " (click to hide)";
+}
+.participants ul {
+    display: none;
+}

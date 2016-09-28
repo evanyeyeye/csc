@@ -32,6 +32,14 @@
         "start_date": "5/27/2016",
         "end_date": "5/30/2016"
     },
+    "PACTF": {
+        "url": "https://www.pactf.com/",
+        "start_date": "4/10/2016",
+        "end_date": "5/1/2016",
+        "participants": [
+            [12, "TJ CSL", 1871]
+        ]
+    },
     "sCTF 2016 Q1": {
         "url": "https://compete.sctf.io/2016q1/",
         "start_date": "4/8/2016",

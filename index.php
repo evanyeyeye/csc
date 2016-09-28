@@ -220,8 +220,22 @@ $data = json_decode(file_get_contents("ctfs.json"));
 foreach ($data as $key => $val) {
     echo '<li class="list-group-item">';
     echo '<div class="info"><h4 class="list-group-item-heading"><a href="' . $val->url . '" target="_blank">' . $key . '</a></h4>';
-    echo '<p class="list-group-item-text">Date: ' . $val->date . '</p></div>';
-    echo '<h3 class="status">' . $val->status . '</h3>';
+    $t = time();
+    $start_date = strtotime($val->start_date);
+    $end_date = strtotime($val->end_date);
+    echo '<p class="list-group-item-text">Date: ' .date("F j, Y", $start_date) . ' - ' . date("F j, Y", $end_date) . '</p></div>';
+    if ($start_date < $t) {
+        if ($end_date < $t) {
+            $status = 'Finished';
+        }
+        else {
+            $status = 'Ongoing';
+        }
+    }
+    else {
+        $status = 'Upcoming';
+    }
+    echo '<h3 class="status">' . $status . '</h3>';
     if (property_exists($val, "participants")) {
         $show_score = count($val->participants[0]) > 2;
         echo '<div class="participants"><b>TJ Participants</b><table class="table">';

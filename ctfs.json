@@ -1,21 +1,21 @@
 {
     "CSAW HSF Quals 2016": {
         "url": "https://csaw.engineering.nyu.edu/hsf",
-        "date": "September 28 - October 8, 2016",
-        "status": "Upcoming"
+        "start_date": "9/28/2016",
+        "end_date": "10/8/2016"
     },
     "MITRE CTF 2016": {
         "url": "http://mitrecyberacademy.org/competitions/",
-        "date": "September 16 - 17, 2016",
-        "status": "Finished",
+        "start_date": "9/16/2016",
+        "end_date": "9/17/2016",
         "participants": [
             [13, "The Flying Penguins", 510]
         ]
     },
     "ABCTF 2016": {
         "url": "http://abctf.xyz",
-        "date": "July 15 - 22, 2016",
-        "status": "Finished",
+        "start_date": "7/15/2016",
+        "end_date": "7/22/2016",
         "participants": [
             [1, "µ's", 4505],
             [106, "Some Random Team", 1645],
@@ -29,33 +29,18 @@
     },
     "TJCTF 2016": {
         "url": "https://tjctf.org/",
-        "date": "May 27 - 30, 2016",
-        "status": "Finished"
+        "start_date": "5/27/2016",
+        "end_date": "5/30/2016"
     },
     "sCTF 2016 Q1": {
         "url": "https://compete.sctf.io/2016q1/",
-        "date": "April 8 - 15, 2016",
-        "status": "Finished"
-    },
-    "CamsCTF": {
-        "url": "http://camsctf.com/",
-        "date": "April 17 - 24, 2015",
-        "status": "Finished",
-        "participants": [
-            [1, "µ's", 9990],
-            [8, "OM3G4", 5193],
-            [11, "TJ CSL", 4588],
-            [85, "swytch", 755],
-            [113, "hungry hippos", 460],
-            [129, "srossd", 370],
-            [144, "bunny", 330],
-            [301, "I Don't Have a Team Name", 70]
-        ]
+        "start_date": "4/8/2016",
+        "end_date": "4/15/2016"
     },
     "EasyCTF 2015": {
         "url": "https://easyctf.com/",
-        "date": "October 31 - November 11, 2015",
-        "status": "Finished",
+        "start_date": "10/31/2015",
+        "end_date": "11/11/2015",
         "participants": [
             [1, "µ's", 14250],
             [2, "not good at compute box", 14250],
@@ -76,10 +61,25 @@
             [555, "EZCTF", 715]
         ]
     },
+    "CamsCTF": {
+        "url": "http://camsctf.com/",
+        "start_date": "4/17/2015",
+        "end_date": "4/24/2015",
+        "participants": [
+            [1, "µ's", 9990],
+            [8, "OM3G4", 5193],
+            [11, "TJ CSL", 4588],
+            [85, "swytch", 755],
+            [113, "hungry hippos", 460],
+            [129, "srossd", 370],
+            [144, "bunny", 330],
+            [301, "I Don't Have a Team Name", 70]
+        ]
+    },
     "picoCTF 2014": {
         "url": "https://picoctf.com/",
-        "date": "October 27 - November 7, 2014",
-        "status": "Finished",
+        "start_date": "10/27/2014",
+        "end_date": "11/7/2014",
         "participants": [
             [3, "Raelly", 6105],
             [4, "Shark Fins", 6015],

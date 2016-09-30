@@ -138,7 +138,7 @@
                             <div class="col-md-4 col-xs-6 officer">
                                 <p class="lead">Neil Thistlethwaite</p>
                                 <h4>Lecturer</h4>
-                                <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Neil Thistlethwaite">
+                                <img class="img-responsive img-circle" src="images/officers/neil.jpg" alt="Neil Thistlethwaite">
                             </div>
                         </div>
                         <div class="col-md-2"></div>

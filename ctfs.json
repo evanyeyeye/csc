@@ -45,6 +45,21 @@
         "start_date": "4/8/2016",
         "end_date": "4/15/2016"
     },
+    "CamsCTF 2016": {
+        "url": "http://camsctf.com/",
+        "start_date": "3/20/2016",
+        "end_date": "3/27/2016",
+        "participants": [
+            [1, "µ's", 9990],
+            [8, "OM3G4", 5193],
+            [11, "TJ CSL", 4588],
+            [85, "swytch", 755],
+            [113, "hungry hippos", 460],
+            [129, "srossd", 370],
+            [144, "bunny", 330],
+            [301, "I Don't Have a Team Name", 70]
+        ]
+    },
     "EasyCTF 2015": {
         "url": "https://easyctf.com/",
         "start_date": "10/31/2015",
@@ -67,21 +82,6 @@
             [403, "Bunnycowsnoopyroo", 1220],
             [537, "Just Another Team", 750],
             [555, "EZCTF", 715]
-        ]
-    },
-    "CamsCTF": {
-        "url": "http://camsctf.com/",
-        "start_date": "4/17/2015",
-        "end_date": "4/24/2015",
-        "participants": [
-            [1, "µ's", 9990],
-            [8, "OM3G4", 5193],
-            [11, "TJ CSL", 4588],
-            [85, "swytch", 755],
-            [113, "hungry hippos", 460],
-            [129, "srossd", 370],
-            [144, "bunny", 330],
-            [301, "I Don't Have a Team Name", 70]
         ]
     },
     "picoCTF 2014": {

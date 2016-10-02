@@ -11,7 +11,7 @@
         "date": "9/28/2016",
         "body": "In this meeting, Evan Shi will teach basic linux commands and how to interpret the output of some of these commands. He will introduce tools and commands that are especially useful in CTFs.",
         "links": [
-            ["Presentation"],
+            ["Presentation", "https://docs.google.com/presentation/d/1xfXykFERUFk3eLksIAULMAZTU8ck9m_wmkfTuzDXslA"],
             ["Bandit", "http://overthewire.org/wargames/bandit/"]
         ]
     },
@@ -20,7 +20,7 @@
         "body": "In this meeting, you will learn more about useful tools and commands that you can apply to CTFs.",
         "links": [
             ["Presentation"],
-            ["Practice Problems"]
+            ["Bandit", "http://overthewire.org/wargames/bandit/"]
         ]
     },
     "Basic Web": {
@@ -28,7 +28,8 @@
         "body": "In this lesson we will teach common types of easy web problems (ex: robots.txt, path traversal) and SQL injection.",
         "links": [
             ["Presentation"],
-            ["Natas", "http://overthewire.org/wargames/natas/"]
+            ["Natas", "http://overthewire.org/wargames/natas/"],
+            ["XSS Game", "https://xss-game.appspot.com/"]
         ]
     },
     "Basic Cryptography": {

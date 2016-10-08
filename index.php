@@ -266,8 +266,9 @@ foreach ($data as $key => $val) {
                         <div class="row">
                             <h2 class="featurette-heading" style="margin-top:0;">Extra Information</h2>
                             <p class="lead description">
-                                Join our mailing list to receiving club announcements:
+                                Join our Slack or mailing list to receive club announcements:
                                 <br /><br />
+                                <a href="https://tjcsc.herokuapp.com/" class="btn btn-primary btn-outline btn-lg" target="_blank">Slack</a>
                                 <a href="//lists.tjhsst.edu/listinfo/csc" class="btn btn-primary btn-outline btn-lg" target="_blank">
                                     Mailing list
                                 </a>

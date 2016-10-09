@@ -25,7 +25,7 @@
     },
     "Basic Web": {
         "date": "10/12/2016",
-        "body": "In this lesson we will teach common types of easy web problems (ex: robots.txt, path traversal) and SQL injection.",
+        "body": "In this lecture, you will be introduced to standard web problems (ex: robots.txt, path traversal, SQL injection) and how to approach them.",
         "links": [
             ["Presentation"],
             ["Natas", "http://overthewire.org/wargames/natas/"],

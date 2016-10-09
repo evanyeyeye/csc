@@ -2,7 +2,20 @@
     "CSAW HSF Quals 2016": {
         "url": "https://csaw.engineering.nyu.edu/hsf",
         "start_date": "9/28/2016",
-        "end_date": "10/8/2016"
+        "end_date": "10/8/2016",
+        "participants": [
+            [4, "µ's", 4725],
+            [12, "MegaMeta", 4225],
+            [17, "BandhiG", 3825],
+            [26, "The Deductive Fuzzyhashers 2.0", 3825],
+            [30, "hungry hippos", 3725],
+            [40, "SegFault", 3275],
+            [163, "Logger Turtles", 800],
+            [256, "Dark Army", 275],
+            [295, "DekaZane", 175],
+            [328, "I Don't Have A Team Name", 125],
+            [373, "JellyMellon", 75]
+        ]
     },
     "MITRE CTF 2016": {
         "url": "http://mitrecyberacademy.org/competitions/",

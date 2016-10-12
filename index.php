@@ -102,7 +102,7 @@
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Alex Sun</p>
                                     <h4>Chief Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Alex Sun">
+                                    <img class="img-responsive img-circle" src="images/officers/alex.jpg" alt="Alex Sun">
                                 </div>
                             </div>
                         </div>

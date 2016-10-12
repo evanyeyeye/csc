@@ -102,7 +102,7 @@
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Alex Sun</p>
                                     <h4>Chief Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/alex.jpg" alt="Alex Sun">
+                                    <img class="img-responsive img-circle" src="images/officers/alex.png" alt="Alex Sun">
                                 </div>
                             </div>
                         </div>
@@ -162,6 +162,17 @@ foreach ($data as $key => $val) {
         <div class="panel-heading">' . $key . '<span class="pull-right">' . $val->date . '</span></div>
         <div class="panel-body">
             <p>' .$val->body . '</p>';
+    if (property_exists($val, "level")) {
+        if ($val->level == 1) {
+            $panel .= '<p style="color:green">Beginner Level</p>';
+        }
+        else if ($val->level == 2) {
+            $panel .= '<p style="color:yellow">Intermediate Level</p>';
+        }
+        else if ($val->level == 3) {
+            $panel .= '<p style="color:green">Advanced Level</p>';
+        }
+    }
     if (property_exists($val, "links")) {
         foreach ($val->links as $val2) {
             if (count($val2) == 1) {
@@ -174,7 +185,7 @@ foreach ($data as $key => $val) {
     }
     $panel .= '</div></div>';
     if ($is_done) {
-        $done .= $panel;
+        $done = $panel . $done;
     }
     else {
         echo $panel;

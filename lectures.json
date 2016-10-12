@@ -2,6 +2,7 @@
     "Introduction": {
         "date": "9/21/2016",
         "body": "Welcome to TJ CSC! During our first meeting, we'll talk about what we do and give you a taste of what to expect in the future.",
+        "level": 1,
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/1hPW4mL-lHNKoJn7AUcmuGzcIWTAllzFbWbKQJk5sXgs"],
             ["IntroCTF", "https://introctf.herokuapp.com/"]
@@ -10,6 +11,7 @@
     "Basic Linux Commands, Part 1": {
         "date": "9/28/2016",
         "body": "In this meeting, Evan Shi will teach basic linux commands and how to interpret the output of some of these commands. He will introduce tools and commands that are especially useful in CTFs.",
+        "level": 1,
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/1xfXykFERUFk3eLksIAULMAZTU8ck9m_wmkfTuzDXslA"],
             ["Bandit", "http://overthewire.org/wargames/bandit/"]
@@ -18,6 +20,7 @@
     "Basic Linux Commands, Part 2": {
         "date": "10/5/2016",
         "body": "In this meeting, you will learn more about useful tools and commands that you can apply to CTFs.",
+        "level": 1,
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/1H8cZ1ZDSxsmPjgy3bGBUuZvzNuGegRJf1KJtuRJ3t4A"],
             ["Bandit", "http://overthewire.org/wargames/bandit/"]
@@ -25,9 +28,11 @@
     },
     "Basic Web": {
         "date": "10/12/2016",
-        "body": "In this lecture, you will be introduced to standard web problems (ex: robots.txt, path traversal, SQL injection) and how to approach them.",
+        "body": "In this lecture, you will be introduced to standard web problems (ex: robots.txt, cookies, headers) and how to approach them.",
+        "level": 1,
         "links": [
-            ["Presentation"],
+            ["Presentation", "https://docs.google.com/presentation/d/1OE-YS7V7jhlPixkCVMVC1CAmNI_6a8SN530SXkLxxcw"],
+            ["Practice", "https://tjcscwebpractice.herokuapp.com/"],
             ["Natas", "http://overthewire.org/wargames/natas/"],
             ["XSS Game", "https://xss-game.appspot.com/"]
         ]
@@ -35,6 +40,7 @@
     "Basic Cryptography": {
         "date": "10/19/2016",
         "body": "In this lesson we will go over classical ciphers and basic cryptanalysis techniques.",
+        "level": 1,
         "links": [
             ["Presentation"],
             ["Krypton", "http://overthewire.org/wargames/krypton/"]

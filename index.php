@@ -79,6 +79,7 @@
                         </div>
                         <div class="col-md-5">
                             <img class="featurette-image img-responsive shadow-image" src="images/club1.jpg" alt="TJCSC" />
+                            <p class="img-desc">TJ Computer Security Club Meeting, September 2013</p>
                         </div>
                     </div>
                 </div>
@@ -149,7 +150,7 @@
             <div id="schedule">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-7">
+                        <div class="col-md-12">
                             <h2 class="featurette-heading" style="margin-top:10px">Schedule</h2>
                             <div class="panels">
 <?php
@@ -194,9 +195,6 @@ foreach ($data as $key => $val) {
 echo $done;
 ?>
                             </div>
-                        </div>
-                        <div class="col-md-5">
-                            <img class="featurette-image img-responsive shadow-image hide-sm" src="images/csc.png" alt="TJCSC" />
                         </div>
                     </div>
                 </div>

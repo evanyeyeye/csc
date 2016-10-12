@@ -224,3 +224,7 @@ img.shadow-image {
     max-height: 600px;
     overflow-y: auto;
 }
+.img-desc {
+    font-size: 12px;
+    margin-top: 5px;
+}

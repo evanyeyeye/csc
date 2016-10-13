@@ -223,6 +223,8 @@ img.shadow-image {
 .panels {
     max-height: 600px;
     overflow-y: auto;
+    width: 600px;
+    margin: 0 auto;
 }
 .img-desc {
     font-size: 12px;

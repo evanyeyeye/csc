@@ -164,7 +164,10 @@ foreach ($data as $key => $val) {
         <div class="panel-body">
             <p>' .$val->body . '</p>';
     if (property_exists($val, "level")) {
-        if ($val->level == 1) {
+        if ($val->level == 0) {
+            $panel .= '<p style="color:purple">Special</p>';
+        }
+        else if ($val->level == 1) {
             $panel .= '<p style="color:green">Beginner Level</p>';
         }
         else if ($val->level == 2) {
@@ -172,6 +175,9 @@ foreach ($data as $key => $val) {
         }
         else if ($val->level == 3) {
             $panel .= '<p style="color:green">Advanced Level</p>';
+        }
+        else if ($val->level == 4) {
+            $panel .= '<p style="color:orange">Guest Lecture</p>';
         }
     }
     if (property_exists($val, "links")) {

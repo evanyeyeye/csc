@@ -44,6 +44,7 @@
         "links": [
             ["Presentation"],
             ["Krypton", "http://overthewire.org/wargames/krypton/"]
+            ["Cryptopals", "https://cryptopals.com/"]
         ]
     }
 }

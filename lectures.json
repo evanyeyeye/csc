@@ -43,7 +43,7 @@
         "level": 1,
         "links": [
             ["Presentation"],
-            ["Krypton", "http://overthewire.org/wargames/krypton/"]
+            ["Krypton", "http://overthewire.org/wargames/krypton/"],
             ["Cryptopals", "https://cryptopals.com/"]
         ]
     }

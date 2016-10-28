@@ -165,19 +165,19 @@ foreach ($data as $key => $val) {
             <p>' .$val->body . '</p>';
     if (property_exists($val, "level")) {
         if ($val->level == 0) {
-            $panel .= '<p style="color:purple">Special</p>';
+            $panel .= '<p style="color:	#9400D3">Special</p>';
         }
         else if ($val->level == 1) {
             $panel .= '<p style="color:green">Beginner Level</p>';
         }
         else if ($val->level == 2) {
-            $panel .= '<p style="color:yellow">Intermediate Level</p>';
+            $panel .= '<p style="color:#DAA520">Intermediate Level</p>';
         }
         else if ($val->level == 3) {
             $panel .= '<p style="color:red">Advanced Level</p>';
         }
         else if ($val->level == 4) {
-            $panel .= '<p style="color:orange">Guest Lecture</p>';
+            $panel .= '<p style="color:#FF8C00">Guest Lecture</p>';
         }
     }
     if (property_exists($val, "links")) {

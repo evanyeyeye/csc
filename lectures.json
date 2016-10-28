@@ -42,7 +42,7 @@
         "body": "In this lesson we will go over classical ciphers and basic cryptanalysis techniques.",
         "level": 1,
         "links": [
-            ["Presentation"],
+            ["Presentation", "https://docs.google.com/presentation/d/1gfTGrBzN_r3vjPtObIx_Ghk1N-1g879vnGQjej9EgmA"],
             ["Krypton", "http://overthewire.org/wargames/krypton/"],
             ["Cryptopals", "https://cryptopals.com/"]
         ]

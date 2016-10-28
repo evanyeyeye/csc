@@ -46,5 +46,45 @@
             ["Krypton", "http://overthewire.org/wargames/krypton/"],
             ["Cryptopals", "https://cryptopals.com/"]
         ]
+    },
+    "Review Week": {
+        "date": "11/2/2016",
+        "body": "No lecture; a challenge session. There will be several problems for you to try, and we will share many helpful practice resources.",
+        "level": 1,
+        "links": [
+            ["Presentation"]
+        ]
+    },
+    "Intermediate Cryptography": {
+        "date": "11/16/2016",
+        "body": "This week we will learn and practice manipulating bits to decrypt messages, and review common hashes and rainbow tables.",
+        "level": 2,
+        "links": [
+            ["Presentation"]
+        ]
+    },
+    "Python in Computer Security": {
+        "date": "11/30/2016",
+        "body": "Lecture will have a small portion on python syntax, but will largely focus on how to integrate python to solve CTF problems.",
+        "level": 1,
+        "links": [
+            ["Presentation"]
+        ]
+    },
+    "Files & Forensics": {
+        "date": "12/7/2016",
+        "body": "In this lecture we will explore file features and learn how to perform basic forensic analysis.",
+        "level": 2,
+        "links": [
+            ["Presentation"]
+        ]
+    },
+    "Last 2016 Meeting": {
+        "date": "12/14/2016",
+        "body": "Fun challenges (&& MAYBE Party)",
+        "level": 0,
+        "links": [
+            ["Presentation"]
+        ]
     }
 }

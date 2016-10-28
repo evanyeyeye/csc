@@ -174,7 +174,7 @@ foreach ($data as $key => $val) {
             $panel .= '<p style="color:yellow">Intermediate Level</p>';
         }
         else if ($val->level == 3) {
-            $panel .= '<p style="color:green">Advanced Level</p>';
+            $panel .= '<p style="color:red">Advanced Level</p>';
         }
         else if ($val->level == 4) {
             $panel .= '<p style="color:orange">Guest Lecture</p>';

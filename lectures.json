@@ -33,8 +33,7 @@
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/1OE-YS7V7jhlPixkCVMVC1CAmNI_6a8SN530SXkLxxcw"],
             ["Practice", "https://tjcscwebpractice.herokuapp.com/"],
-            ["Natas", "http://overthewire.org/wargames/natas/"],
-            ["XSS Game", "https://xss-game.appspot.com/"]
+            ["Natas", "http://overthewire.org/wargames/natas/"]
         ]
     },
     "Basic Cryptography": {
@@ -52,7 +51,7 @@
         "body": "No lecture; a challenge session. There will be several problems for you to try, and we will share many helpful practice resources.",
         "level": 1,
         "links": [
-            ["Presentation"]
+            ["Presentation","https://docs.google.com/presentation/d/1UhOcB7stFuifeejOkeZsBfGns66WrPsDhzMpOd0xcBY"]
         ]
     },
     "Intermediate Cryptography": {

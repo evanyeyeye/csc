@@ -1,5 +1,10 @@
 {
-	"RUSecure CTF 2016": {
+    "RUSecure CTF 2016 Qualifying Round": {
+        "url": "https://www.radford.edu/content/csat/home/itec/rusecure-ctf-contest.html",
+        "start_date": "3/18/2017",
+        "end_date": "4/1/2017"
+    },
+    "RUSecure CTF 2016 Preliminary Round": {
         "url": "https://www.radford.edu/content/csat/home/itec/rusecure-ctf-contest.html",
         "start_date": "10/29/2016",
         "end_date": "11/12/2016"

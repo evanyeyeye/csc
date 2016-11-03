@@ -158,9 +158,13 @@ $data = json_decode(file_get_contents("lectures.json"));
 $done = '';
 foreach ($data as $key => $val) {
     $panel = '';
+    $block = '';
     $is_done = time() > strtotime($val->date);
+    if (property_exists($val, "block")) {
+        $block = ', ' . $val->block . ' Block';
+    }
     $panel .= '<div class="panel' . ($is_done ? ' done': '') . '">
-        <div class="panel-heading">' . $key . '<span class="pull-right">' . $val->date . '</span></div>
+        <div class="panel-heading">' . $key . '<span class="pull-right">' . $val->date . $block . '</span></div>
         <div class="panel-body">
             <p>' .$val->body . '</p>';
     if (property_exists($val, "level")) {

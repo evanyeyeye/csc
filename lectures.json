@@ -63,17 +63,9 @@
         ]
     },
     "Python in Computer Security": {
-        "date": "11/30/2016",
+        "date": "12/7/2016",
         "body": "Lecture will have a small portion on python syntax, but will largely focus on how to integrate python to solve CTF problems.",
         "level": 1,
-        "links": [
-            ["Presentation"]
-        ]
-    },
-    "Files & Forensics": {
-        "date": "12/7/2016",
-        "body": "In this lecture we will explore file features and learn how to perform basic forensic analysis.",
-        "level": 2,
         "links": [
             ["Presentation"]
         ]

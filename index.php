@@ -242,7 +242,7 @@ foreach ($data as $key => $val) {
     $t = time();
     $start_date = strtotime($val->start_date);
     $end_date = strtotime($val->end_date);
-    echo '<p class="list-group-item-text">Date: ' .date("F j, Y", $start_date) . ' - ' . date("F j, Y", $end_date) . '</p></div>';
+    echo '<p class="list-group-item-text">Date: ' . (strlen($val->start_date) > 10 ? date("F j, Y (g:i A)", $start_date) : date("F j, Y", $start_date)) . ' - ' . (strlen($val->end_date) > 10 ? date("F j, Y (g:i A)", $end_date) : date("F j, Y", $end_date)) . '</p></div>';
     if ($start_date < $t) {
         if ($end_date < $t) {
             $status = 'Finished';

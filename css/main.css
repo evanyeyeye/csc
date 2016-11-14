@@ -230,3 +230,7 @@ img.shadow-image {
     font-size: 12px;
     margin-top: 5px;
 }
+#ctf-list .list-group {
+    max-height: 500px;
+    overflow-y: scroll;
+}

@@ -154,6 +154,7 @@
                             <h2 class="featurette-heading" style="margin-top:10px">Schedule</h2>
                             <div class="panels">
 <?php
+date_default_timezone_set("America/New_York");
 $data = json_decode(file_get_contents("lectures.json"));
 $done = '';
 foreach ($data as $key => $val) {

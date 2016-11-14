@@ -12,7 +12,12 @@
     "RUSecure CTF 2016 Preliminary Round": {
         "url": "https://www.radford.edu/content/csat/home/itec/rusecure-ctf-contest.html",
         "start_date": "10/29/2016",
-        "end_date": "11/12/2016"
+        "end_date": "11/12/2016",
+        "participants": [
+            [1, "hungry hippos", 74467],
+            [2, "The Deductive Fuzzyhashers 2.0", 74467],
+            [5, "jffknight", 72967]
+        ]
     },
     "CSAW HSF Quals 2016": {
         "url": "https://csaw.engineering.nyu.edu/hsf",

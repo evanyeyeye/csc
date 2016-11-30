@@ -62,9 +62,9 @@
             ["Presentation"]
         ]
     },
-    "Python in Computer Security": {
+    "Packet Analysis": {
         "date": "12/7/2016",
-        "body": "Lecture will have a small portion on python syntax, but will largely focus on how to integrate python to solve CTF problems.",
+        "body": "Lecture will be about using Wireshark to conduct packet analysis and simple analysis techniques.",
         "level": 1,
         "links": [
             ["Presentation"]

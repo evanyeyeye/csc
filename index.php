@@ -112,7 +112,7 @@
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Emily Quan</p>
                                     <h4>Treasurer</h4>
-                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Emily Quan">
+                                    <img class="img-responsive img-circle" src="images/officers/emily.png" alt="Emily Quan">
                                 </div>
                                 <div class="col-xs-6 officer">
                                     <p class="lead">James Houghton</p>

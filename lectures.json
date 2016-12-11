@@ -51,7 +51,7 @@
         "body": "No lecture; a challenge session. There will be several problems for you to try, and we will share many helpful practice resources.",
         "level": 1,
         "links": [
-            ["Presentation","https://docs.google.com/presentation/d/1UhOcB7stFuifeejOkeZsBfGns66WrPsDhzMpOd0xcBY"]
+            ["Presentation", "https://docs.google.com/presentation/d/1UhOcB7stFuifeejOkeZsBfGns66WrPsDhzMpOd0xcBY"]
         ]
     },
     "Intermediate Cryptography": {
@@ -59,7 +59,7 @@
         "body": "This week we will learn and practice manipulating bits to decrypt messages, and review common hashes and rainbow tables.",
         "level": 2,
         "links": [
-            ["Presentation"]
+            ["Presentation", "https://docs.google.com/presentation/d/1brQytZOKqFNO0HnsgzItomUlS09K4UsqyistExGGCJY"]
         ]
     },
     "Packet Analysis": {
@@ -67,7 +67,7 @@
         "body": "Lecture will be about using Wireshark to conduct packet analysis and simple analysis techniques.",
         "level": 1,
         "links": [
-            ["Presentation"]
+            ["Presentation", "https://docs.google.com/presentation/d/1I4WNs_OAkPKrBds5WijSngLZDG6bG_TWN7lczw2H-e8"]
         ]
     },
     "Last 2016 Meeting": {
@@ -75,7 +75,7 @@
         "body": "Fun challenges and maybe a party!",
         "level": 0,
         "links": [
-            ["Presentation"]
+            ["MidCTF", "https://midctf.herokuapp.com/"]
         ]
     }
 }

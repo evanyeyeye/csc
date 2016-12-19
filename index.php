@@ -21,7 +21,7 @@
             <div class="container">
                 <div class="navbar-header">
                     <a href="" class="dropdown-toggle navbar-brand" data-toggle="dropdown" style="margin-left:7px;">
-                        TJCSC
+                        TJ CSC
                         <!--<span class="caret"></span>-->
                     </a>
                     <!--
@@ -68,7 +68,7 @@
                                 <div class="dropdown" style="display:inline-block">
                                     <button class="btn btn-primary btn-outline btn-lg dropdown-toggle" type="button" id="dropdownOld" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                         Old Presentations
-                                        <span class="caret"></span>
+                                        <span class="caret"></s/pan>
                                     </button>
                                     <ul class="dropdown-menu" aria-labelledby="dropdownOld">
                                         <li><a href="https://drive.google.com/folderview?id=0B5DvBrjbHOdPVTNIZzFxU01NWFE" target="_blank">2015 - 2016</a></li>
@@ -77,9 +77,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-5">
-                            <img class="featurette-image img-responsive shadow-image" src="images/club1.jpg" alt="TJCSC" />
-                            <p class="img-desc">TJ Computer Security Club Meeting, September 2013</p>
+                        <div class="col-md-5" style="padding-top: 20px;">
+                            <img class="featurette-image img-responsive shadow-image" src="images/club.png" alt="TJ CSC" />
+                            <p class="img-desc">TJ Computer Security Club Meeting, October 2016</p>
                         </div>
                     </div>
                 </div>
@@ -213,16 +213,17 @@ echo $done;
             <hr class="featurette-divider" />
             <div id="ctf">
                 <div class="container">
-                    <div class="row">
+                    <div class="row" style="margin-bottom: 10px;">
                         <div class="col-md-7 col-md-push-5">
                             <h2 class="featurette-heading">Capture the Flag</h2>
                             <p class="lead description ctf">
                                 Capture the Flag (CTF) competitions are fun, online computer security contests that often include problems ranging widely in category and difficulty.
-                                TJCSC is proud to host one of the few high school managed CTFs in the country, TJCTF! Interested in getting started? Check out this year's introCTF.
+                                TJ CSC is proud to host one of the few high school managed CTFs in the country, TJCTF! Interested in getting started? Check out this year's introCTF and midCTF.
                             </p>
-                                <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//introctf.herokuapp.com" target="_blank">introCTF</a>
-                                <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//tjctf.org" target="_blank">TJCTF</a>
-                                <br/>
+                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//introctf.herokuapp.com" target="_blank">introCTF</a>
+                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//midctf.herokuapp.com" target="_blank">midCTF</a>
+                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//tjctf.org" target="_blank">TJCTF</a>
+                            <br/>
                         </div>
                         <div class="col-md-5 col-md-pull-7">
                             <img class="featurette-image img-responsive" src="images/tjctf2016.png" alt="TJCTF 2016"></img>
@@ -290,7 +291,7 @@ foreach ($data as $key => $val) {
                                 <br /><br />
                                 <a href="https://tjcsc.slack.com/" class="btn btn-primary btn-outline btn-lg" target="_blank">Slack</a>
                                 <a href="//lists.tjhsst.edu/listinfo/csc" class="btn btn-primary btn-outline btn-lg" target="_blank">
-                                    Mailing list
+                                    Mailing List
                                 </a>
                             </p>
                         </div>
@@ -303,7 +304,7 @@ foreach ($data as $key => $val) {
             <div class="container" style="margin-right:0;">
                 <div class="row">
                     <div class="col-md-12">
-                        <p style="font-size:10px;">TJCSC 2016<br />James Houghton</p>
+                        <p style="font-size:10px;">TJ CSC 2016<br />James Houghton</p>
                     </div>
                 </div>
             </div>

@@ -65,7 +65,7 @@
     "Packet Analysis": {
         "date": "12/7/2016",
         "body": "Lecture will be about using Wireshark to conduct packet analysis and simple analysis techniques.",
-        "level": 1,
+        "level": 2,
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/1I4WNs_OAkPKrBds5WijSngLZDG6bG_TWN7lczw2H-e8"]
         ]

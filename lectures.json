@@ -77,5 +77,13 @@
         "links": [
             ["MidCTF", "https://midctf.herokuapp.com/"]
         ]
+    },
+    "Basic Steganography": {
+        "date": "1/11/2017",
+        "body": "Lecture will be about common steganographic techniques, such as least significant bit steganography and image metadata.",
+        "level": 1,
+        "links": [
+            ["Presentation", "https://docs.google.com/presentation/d/1qvMgPyEU7pQou-2CFF5yvN1SHdTclKu6q_K1BnISTGg"]
+        ]
     }
 }

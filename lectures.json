@@ -85,5 +85,13 @@
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/1qvMgPyEU7pQou-2CFF5yvN1SHdTclKu6q_K1BnISTGg"]
         ]
+    },
+    "Sockets": {
+        "date": "1/18/2017",
+        "body": "In this lecture, we will cover using Python to connect to sockets, and common related problems.",
+        "level": 1,
+        "links": [
+            ["Presentation"]
+        ]
     }
 }

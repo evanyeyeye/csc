@@ -89,9 +89,17 @@
     "Sockets": {
         "date": "1/18/2017",
         "body": "In this lecture, we will cover using Python to connect to sockets, and common related problems.",
-        "level": 1,
+        "level": 2,
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/1-0zyhdjV5qfZ-N-k9XIjsJnpO6pzrfGxKA2yILZModU"]
+        ]
+    },
+    "SQL Injection": {
+        "date": "1/25/2017",
+        "body": "Lecture will be about SQL injection techniques.",
+        "level": 1,
+        "links": [
+            ["Presentation"]
         ]
     }
 }

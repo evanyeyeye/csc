@@ -101,5 +101,13 @@
         "links": [
             ["Presentation"]
         ]
+    },
+    "Local File Inclusion": {
+        "date": "2/1/2017",
+        "body": "Lecture will be about local file inclusion vulnerabilities.",
+        "level": 1,
+        "links": [
+            ["Presentation"]
+        ]
     }
 }

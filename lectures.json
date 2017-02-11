@@ -99,7 +99,7 @@
         "body": "Lecture will be about SQL injection techniques.",
         "level": 1,
         "links": [
-            ["Presentation"]
+            ["Presentation", "https://docs.google.com/presentation/d/1FmloU8sXaFx45jV7nVS7wKXhCiJ7GoZrnjdEQ3d_-YM"]
         ]
     },
     "Local File Inclusion": {
@@ -107,7 +107,7 @@
         "body": "Lecture will be about local file inclusion vulnerabilities.",
         "level": 1,
         "links": [
-            ["Presentation"]
+            ["Presentation", "https://docs.google.com/presentation/d/1tub4kVDnqMY1ITm1vF2IZR-oHiE7jpeCC10DwhaLZ3o"]
         ]
     }
 }

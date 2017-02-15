@@ -109,5 +109,13 @@
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/1tub4kVDnqMY1ITm1vF2IZR-oHiE7jpeCC10DwhaLZ3o"]
         ]
+    },
+    "Cross Site Scripting": {
+        "date": "2/15/2017",
+        "body": "Lecture will be about cross site scripting and ways to defend against it.",
+        "level": 1,
+        "links": [
+            ["Presentation", "https://docs.google.com/presentation/d/13O5jiFLDZlrx0tQF8i66oGc_0xjKa_4AsA5A7FQIa1k"]
+        ]
     }
 }

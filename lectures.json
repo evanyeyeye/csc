@@ -128,7 +128,7 @@
     },
     "Memory Forensics": {
         "date": "2/22/2017",
-        "body": "Lecture will be about memory forensics techniques and how ot use Volatility, an open source memory forensics framework.",
+        "body": "Lecture will be about memory forensics techniques and how to use Volatility, an open source memory forensics framework.",
         "level": 1,
         "links": [
             ["Presentation"]

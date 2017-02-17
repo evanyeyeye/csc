@@ -125,5 +125,13 @@
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/13O5jiFLDZlrx0tQF8i66oGc_0xjKa_4AsA5A7FQIa1k"]
         ]
+    },
+    "Memory Forensics": {
+        "date": "2/22/2017",
+        "body": "Lecture will be about memory forensics techniques and how ot use Volatility, an open source memory forensics framework.",
+        "level": 1,
+        "links": [
+            ["Presentation"]
+        ]
     }
 }

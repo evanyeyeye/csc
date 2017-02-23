@@ -131,7 +131,7 @@
         "body": "Lecture will be about memory forensics techniques and how to use Volatility, an open source memory forensics framework.",
         "level": 1,
         "links": [
-            ["Presentation"]
+            ["Presentation", "https://docs.google.com/presentation/d/1uXweD85Tsakyeaka8c-uhmDLwjtTb7xDHVQGgjsXdnE"]
         ]
     }
 }

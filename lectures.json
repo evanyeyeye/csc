@@ -144,7 +144,7 @@
     },
     "Asymmetric Cryptography, Part 2": {
         "date": "3/8/2017",
-        "body": "Lecture will cover symmetric and asymmetric cryptography, modular arithmetic, fast arithmetic algorithms, the RSA cryptosystem, RSA signatures, attacks on RSA, and an overview of classical and quantum integer factorization algorithms.",
+        "body": "Same as part 1.",
         "level": 3,
         "links": [
             ["Presentation"]

@@ -97,7 +97,7 @@
     "SQL Injection": {
         "date": "1/25/2017",
         "body": "Lecture will be about SQL injection techniques.",
-        "level": 1,
+        "level": 2,
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/1FmloU8sXaFx45jV7nVS7wKXhCiJ7GoZrnjdEQ3d_-YM"]
         ]
@@ -107,7 +107,7 @@
         "body": "Lecture will be about local file inclusion vulnerabilities.",
         "level": 1,
         "links": [
-            ["Presentation", "https://docs.google.com/presentation/d/1tub4kVDnqMY1ITm1vF2IZR-oHiE7jpeCC10DwhaLZ3o"]
+            ["Presentation", "https://docs.google.com/presentation/d/1NU01XbfjAtrlF4wyTbnbUzh6R1boRyEXplvS7CBD9s0"]
         ]
     },
     "Security in File Systems": {
@@ -121,7 +121,7 @@
     "Cross Site Scripting": {
         "date": "2/15/2017",
         "body": "Lecture will be about cross site scripting and ways to defend against it.",
-        "level": 1,
+        "level": 2,
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/13O5jiFLDZlrx0tQF8i66oGc_0xjKa_4AsA5A7FQIa1k"]
         ]

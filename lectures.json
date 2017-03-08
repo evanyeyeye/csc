@@ -151,5 +151,13 @@
         "links": [
             ["Presentation"]
         ]
+    },
+    "CTF Work Day": {
+        "date": "3/15/2017",
+        "body": "Work on solving EasyCTF problems!",
+        "level": 0,
+        "links": [
+            ["EasyCTF", "https://www.easyctf.com/"]
+        ]
     }
 }

@@ -159,5 +159,13 @@
         "links": [
             ["EasyCTF", "https://www.easyctf.com/"]
         ]
+    },
+    "EasyCTF Crypto Review": {
+        "date": "3/22/2017",
+        "body": "We will review how to do EasyCTF cryptography problems.",
+        "level": 0,
+        "links": [
+            ["EasyCTF", "https://www.easyctf.com/"]
+        ]
     }
 }

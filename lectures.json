@@ -152,18 +152,10 @@
             ["Presentation"]
         ]
     },
-    "CTF Work Day": {
-        "date": "3/15/2017",
-        "body": "Work on solving EasyCTF problems!",
-        "level": 0,
-        "links": [
-            ["EasyCTF", "https://www.easyctf.com/"]
-        ]
-    },
-    "EasyCTF Crypto Review": {
+    "RSA and Reversing": {
         "date": "3/22/2017",
-        "body": "We will review how to do EasyCTF cryptography problems.",
-        "level": 0,
+        "body": "We will review how to do EasyCTF RSA problems in A block and learn about reverse engineering B block.",
+        "level": 3,
         "links": [
             ["EasyCTF", "https://www.easyctf.com/"]
         ]

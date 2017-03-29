@@ -17,7 +17,26 @@
     "EasyCTF 2017": {
         "url": "https://easyctf.com/",
         "start_date": "3/13/2017",
-        "end_date": "3/20/2017"
+        "end_date": "3/20/2017",
+        "participants": [
+            [3, "phsst", 8455],
+            [23, "EASYCTF IS MY ******", 5435],
+            [176, "idk", 1800],
+            [316, "Script Adults", 1080],
+            [331, "whapplez_is_a_bot", 1040],
+            [431, "bts", 770],
+            [469, "Biggest Parser", 680],
+            [892, "TJ Smash", 255],
+            [1159, "I Don't Have a Team Name", 140],
+            [1174, "brownies", 140],
+            [1278, "Jellymelonwaterfish", 110],
+            [1324, "asdfjkl;", 95],
+            [1509, "sql_inj3ct3d", 40],
+            [1533, "sql_inj3ct10n", 35],
+            [1549, "SoumithGorillas", 35],
+            [1753, "Hackerman", 10],
+            [1761, "uh what's a good name", 10]
+        ]
     },
     "School CTF 2016": {
         "url": "https://school-ctf.org",

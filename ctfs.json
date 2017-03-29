@@ -1,4 +1,9 @@
 {
+    "MITRE STEM CTF 2017": {
+        "url": "http://mitrecyberacademy.org/competitions/",
+        "start_date": "9/15/2017",
+        "end_date": "9/16/2017"
+    },
     "AngstromCTF 2017": {
         "url": "https://angstromctf.com/",
         "start_date": "4/22/2017",

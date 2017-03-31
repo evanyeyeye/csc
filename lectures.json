@@ -159,5 +159,13 @@
         "links": [
             ["EasyCTF", "https://www.easyctf.com/"]
         ]
+    },
+    "Assembly": {
+        "date": "3/29/2017",
+        "body": "We will learn about assembly instructions and binary reversing.",
+        "level": 3,
+        "links": [
+            ["Presentation"]
+        ]
     }
 }

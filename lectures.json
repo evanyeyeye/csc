@@ -167,5 +167,21 @@
         "links": [
             ["Presentation"]
         ]
+    },
+    "picoCTF Problem Review": {
+        "date": "5/8/2017",
+        "body": "We will review problems from picoCTF 2017.",
+        "level": 0,
+        "links": [
+            ["Presentation"]
+        ]
+    },
+    "Binary Exploitation": {
+        "date": "5/10/2017",
+        "body": "We will learn about binary exploitation.",
+        "level": 3,
+        "links": [
+            ["Presentation"]
+        ]
     }
 }

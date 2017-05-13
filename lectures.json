@@ -173,7 +173,7 @@
         "body": "We will review problems from picoCTF 2017.",
         "level": 0,
         "links": [
-            ["Presentation"]
+            ["picoCTF", "https://2017.picoctf.com/"]
         ]
     },
     "Binary Exploitation": {

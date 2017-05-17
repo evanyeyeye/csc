@@ -183,5 +183,13 @@
         "links": [
             ["Presentation"]
         ]
+    },
+    "Binary Exploitation": {
+        "date": "5/17/2017",
+        "body": "We will learn about binary exploitation.",
+        "level": 3,
+        "links": [
+            ["Presentation"]
+        ]
     }
 }

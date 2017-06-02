@@ -91,7 +91,7 @@
                     <p class="lead description">
                         CSC's officers are elected yearly and are tasked with managing CSC, developing and presenting club lectures, and running TJCTF.  Feel free to ask club officers any computer security-related questions you have!
                     </p>
-                    <p>Interested in becoming an officer next year? Fill out this form <a href="https://docs.google.com/forms/d/e/1FAIpQLScMDNkl9g6Iq8mhmTdUQ8tlZ2GPuIcVkrPmNutdjYqkQvJ-QQ/viewform">here</a>.</p>
+                    <p style="font-size:20px">Interested in becoming an officer next year? Fill out this form <a href="https://docs.google.com/forms/d/e/1FAIpQLScMDNkl9g6Iq8mhmTdUQ8tlZ2GPuIcVkrPmNutdjYqkQvJ-QQ/viewform">here</a>.</p>
                     <div class="row">
                         <div class="col-md-1"></div>
                         <div class="col-md-5">

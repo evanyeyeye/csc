@@ -91,7 +91,6 @@
                     <p class="lead description">
                         CSC's officers are elected yearly and are tasked with managing CSC, developing and presenting club lectures, and running TJCTF.  Feel free to ask club officers any computer security-related questions you have!
                     </p>
-                    <p style="font-size:20px">Interested in becoming an officer next year? Fill out this form <a href="https://docs.google.com/forms/d/e/1FAIpQLScMDNkl9g6Iq8mhmTdUQ8tlZ2GPuIcVkrPmNutdjYqkQvJ-QQ/viewform">here</a>.</p>
                     <div class="row">
                         <div class="col-md-1"></div>
                         <div class="col-md-5">
@@ -102,9 +101,9 @@
                                     <img class="img-responsive img-circle" src="images/officers/eric.jpg" alt="Eric Wang">
                                 </div>
                                 <div class="col-xs-6 officer">
-                                    <p class="lead">Alex Sun</p>
+                                    <p class="lead">Neil Thistlethwaite</p>
                                     <h4>Chief Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/alex.png" alt="Alex Sun">
+                                    <img class="img-responsive img-circle" src="images/officers/neil.jpg" alt="Neil Thistlethwaite">
                                 </div>
                             </div>
                         </div>
@@ -116,9 +115,9 @@
                                     <img class="img-responsive img-circle" src="images/officers/emily.png" alt="Emily Quan">
                                 </div>
                                 <div class="col-xs-6 officer">
-                                    <p class="lead">James Houghton</p>
+                                    <p class="lead">Omkar Kulkarni</p>
                                     <h4>Webmaster</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/james.jpg" alt="James Houghton">
+                                    <img class="img-responsive img-circle" src="images/officers/no_image_available.jpg" alt="omkar kulkarni">
                                 </div>
                             </div>
                         </div>
@@ -128,19 +127,19 @@
                         <div class="col-md-2"></div>
                         <div class="col-md-8">
                             <div class="col-md-4 col-xs-6 officer">
+                                <p class="lead">Aneesh Kotnana</p>
+                                <h4>Lecturer</h4>
+                                <img class="img-responsive img-circle" src="images/officers/no_image_available.jpg" alt="Aneesh Kotnana">
+                            </div>
+                            <div class="col-md-4 col-xs-6 officer">
                                 <p class="lead">Evan Shi</p>
                                 <h4>Lecturer</h4>
                                 <img class="img-responsive img-circle" src="images/officers/evan.png" alt="Evan Shi">
                             </div>
                             <div class="col-md-4 col-xs-6 officer">
-                                <p class="lead">Joseph Chen</p>
+                                <p class="lead">Hanna Xu</p>
                                 <h4>Lecturer</h4>
-                                <img class="img-responsive img-circle" src="images/officers/joseph.jpg" alt="Joseph Chen">
-                            </div>
-                            <div class="col-md-4 col-xs-6 officer">
-                                <p class="lead">Neil Thistlethwaite</p>
-                                <h4>Lecturer</h4>
-                                <img class="img-responsive img-circle" src="images/officers/neil.jpg" alt="Neil Thistlethwaite">
+                                <img class="img-responsive img-circle" src="images/officers/no_image_available.jpg" alt="Hanna Xu">
                             </div>
                         </div>
                         <div class="col-md-2"></div>
@@ -168,7 +167,7 @@ foreach ($data as $key => $val) {
     $panel .= '<div class="panel' . ($is_done ? ' done': '') . '">
         <div class="panel-heading">' . $key . '<span class="pull-right">' . $val->date . $block . '</span></div>
         <div class="panel-body">
-            <p>' .$val->body . '</p>';
+        <p>' .$val->body . '</p>';
     if (property_exists($val, "level")) {
         if ($val->level == 0) {
             $panel .= '<p style="color:	#9400D3">Special</p>';
@@ -305,7 +304,7 @@ foreach ($data as $key => $val) {
             <div class="container" style="margin-right:0;">
                 <div class="row">
                     <div class="col-md-12">
-                        <p style="font-size:10px;">TJ CSC 2016<br />James Houghton</p>
+                        <p style="font-size:10px;">TJ CSC 2017<br />Omkar Kulkarni</p>
                     </div>
                 </div>
             </div>

@@ -4,7 +4,7 @@
         "body": "Welcome to TJ CSC! During our first meeting, we'll talk about what we do and give you a taste of what to expect in the future.",
         "level": 1,
         "links": [
-            ["Presentation", ""],
+            ["Presentation"],
             ["IntroCTF", "https://introctf.herokuapp.com/"]
         ]
     }

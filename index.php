@@ -24,10 +24,6 @@
                         TJ CSC
                         <!--<span class="caret"></span>-->
                     </a>
-                    <!--
-                    <ul class="dropdown-menu" style="left:inherit;">
-                        <li><a href="//activities.tjhsst.edu/csc/old">Old CSC Site</a></li>
-                    </ul> -->
                     <button class="navbar-toggle collapsed" data-target=".navbar-collapse" data-toggle="collapse" type="button">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
@@ -64,14 +60,15 @@
                                 Occasionally, blocks may be spent participating in CTFs, watching pertinent videos, or listening to guest speakers.
                                 We meet <b>Wednesdays</b> during 8th periods both <b>A and B block</b>.
                                 <br /><br />
-                                <a href="https://drive.google.com/folderview?id=0B5DvBrjbHOdPZjBPZldPUGg1eHc" class="btn btn-primary btn-outline btn-lg" target="_blank">Current Presentations</a>
+                                <a href="https://drive.google.com/drive/folders/0B6QpsY4fkhpRdzhicG04TlRGQ2c" class="btn btn-primary btn-outline btn-lg" target="_blank">Current Presentations</a>
                                 <div class="dropdown" style="display:inline-block">
                                     <button class="btn btn-primary btn-outline btn-lg dropdown-toggle" type="button" id="dropdownOld" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                         Old Presentations
                                         <span class="caret"></s/pan>
                                     </button>
                                     <ul class="dropdown-menu" aria-labelledby="dropdownOld">
-                                        <li><a href="https://drive.google.com/folderview?id=0B5DvBrjbHOdPVTNIZzFxU01NWFE" target="_blank">2015 - 2016</a></li>
+                                        <li><a href="https://drive.google.com/drive/folders/0B5DvBrjbHOdPZjBPZldPUGg1eHc" target="_blank">2016 - 2017</a></li>
+                                        <li><a href="https://drive.google.com/drive/folders/0B5DvBrjbHOdPVTNIZzFxU01NWFE" target="_blank">2015 - 2016</a></li>
                                         <li><a href="https://drive.google.com/drive/folders/0B1fA1ynKhdPtMUVOVGhsVTNvbWc" target="_blank">2014 - 2015</a></li>
                                     </ul>
                                 </div>

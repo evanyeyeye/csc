@@ -93,14 +93,14 @@
                         <div class="col-md-5">
                             <div class="row">
                                 <div class="col-xs-6 officer">
-                                    <p class="lead">Eric Wang</p>
+                                    <p class="lead">Neil Thistlethwaite</p>
                                     <h4>President</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/eric.jpg" alt="Eric Wang">
+                                    <img class="img-responsive img-circle" src="images/officers/neil.jpg" alt="Neil Thistlethwaite">
                                 </div>
                                 <div class="col-xs-6 officer">
-                                    <p class="lead">Neil Thistlethwaite</p>
+                                    <p class="lead">Evan Shi</p>
                                     <h4>Chief Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/neil.jpg" alt="Neil Thistlethwaite">
+                                    <img class="img-responsive img-circle" src="images/officers/evan.png" alt="Evan Shi">
                                 </div>
                             </div>
                         </div>
@@ -114,7 +114,7 @@
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Omkar Kulkarni</p>
                                     <h4>Webmaster</h4>
-                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="omkar kulkarni">
+                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Omkar Kulkarni">
                                 </div>
                             </div>
                         </div>
@@ -126,12 +126,12 @@
                             <div class="col-md-4 col-xs-6 officer">
                                 <p class="lead">Aneesh Kotnana</p>
                                 <h4>Lecturer</h4>
-                                <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Aneesh Kotnana">
+                                <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="James Frucht">
                             </div>
                             <div class="col-md-4 col-xs-6 officer">
-                                <p class="lead">Evan Shi</p>
+                                <p class="lead">Aneesh Kotnana</p>
                                 <h4>Lecturer</h4>
-                                <img class="img-responsive img-circle" src="images/officers/evan.png" alt="Evan Shi">
+                                <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Aneesh Kotnana">
                             </div>
                             <div class="col-md-4 col-xs-6 officer">
                                 <p class="lead">Hanna Xu</p>

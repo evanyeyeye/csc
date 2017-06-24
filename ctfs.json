@@ -38,6 +38,9 @@
         "url": "https://www.radford.edu/content/csat/home/itec/rusecure-ctf-contest.html",
         "start_date": "3/18/2017",
         "end_date": "4/1/2017"
+        "participants": [
+            [1, "hungry hippos"] 
+        ]
     },
     "EasyCTF 2017": {
         "url": "https://easyctf.com/",

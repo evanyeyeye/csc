@@ -39,7 +39,7 @@
         "start_date": "3/18/2017",
         "end_date": "4/1/2017"
         "participants": [
-            [1, "hungry hippos"] 
+            [1, "hungry hippos", 81000] 
         ]
     },
     "EasyCTF 2017": {

@@ -114,7 +114,7 @@
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Omkar Kulkarni</p>
                                     <h4>Webmaster</h4>
-                                    <img class="img-responsive img-circle" src="images/jpg" alt="Omkar Kulkarni">
+                                    <img class="img-responsive img-circle" src="images/officers/omkar.png" alt="Omkar Kulkarni">
                                 </div>
                             </div>
                         </div>

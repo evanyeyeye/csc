@@ -124,7 +124,7 @@
                         <div class="col-md-2"></div>
                         <div class="col-md-8">
                             <div class="col-md-4 col-xs-6 officer">
-                                <p class="lead">Aneesh Kotnana</p>
+                                <p class="lead">James Frucht</p>
                                 <h4>Lecturer</h4>
                                 <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="James Frucht">
                             </div>

@@ -1,10 +1,10 @@
 {
     "Introduction": {
-        "date": "XX/XX/2017",
-        "body": "Welcome to TJ CSC! During our first meeting, we'll talk about what we do and give you a taste of what to expect in the future.",
+        "date": "9/13/2017",
+        "body": "Brief introduction of the club, including an overview of topics and Capture the Flag competitions.",
         "level": 1,
         "links": [
-            ["Presentation"],
+            ["Presentation", "https://drive.google.com/open?id=1jIbHUx0FLwhDcV2Ztsi7PdUpL7W6k4jMpVQKIqGaFek"],
             ["IntroCTF", "https://introctf.herokuapp.com/"]
         ]
     }

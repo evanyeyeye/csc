@@ -95,7 +95,7 @@
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Neil Thistlethwaite</p>
                                     <h4>President</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/neil.jpg" alt="Neil Thistlethwaite">
+                                    <img class="img-responsive img-circle" src="images/officers/neil.png" alt="Neil Thistlethwaite">
                                 </div>
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Evan Shi</p>
@@ -131,12 +131,12 @@
                             <div class="col-md-4 col-xs-6 officer">
                                 <p class="lead">Aneesh Kotnana</p>
                                 <h4>Lecturer</h4>
-                                <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Aneesh Kotnana">
+                                <img class="img-responsive img-circle" src="images/officers/aneesh.png" alt="Aneesh Kotnana">
                             </div>
                             <div class="col-md-4 col-xs-6 officer">
                                 <p class="lead">Hanna Xu</p>
                                 <h4>Lecturer</h4>
-                                <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Hanna Xu">
+                                <img class="img-responsive img-circle" src="images/officers/hanna.png" alt="Hanna Xu">
                             </div>
                         </div>
                         <div class="col-md-2"></div>

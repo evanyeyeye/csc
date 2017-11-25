@@ -1,11 +1,79 @@
 {
     "Introduction": {
-        "date": "XX/XX/2017",
-        "body": "Welcome to TJ CSC! During our first meeting, we'll talk about what we do and give you a taste of what to expect in the future.",
+        "date": "9/13/2017",
+        "body": "Brief introduction of the club, including an overview of topics and Capture the Flag competitions.",
         "level": 1,
         "links": [
-            ["Presentation"],
+            ["Presentation", "https://drive.google.com/open?id=1jIbHUx0FLwhDcV2Ztsi7PdUpL7W6k4jMpVQKIqGaFek"],
             ["IntroCTF", "https://introctf.herokuapp.com/"]
+        ]
+    },
+    "Linux Command Line": {
+        "date": "9/20/2017",
+        "body": "The basics of using Linux from the command line, a prerequisite skill for numerous CTF tools.",
+        "level": 1,
+        "links": [
+            ["Presentation", "https://drive.google.com/open?id=1ObNPx6k05uvgJMy6i8A7rR0S2Cq1tInuf6l9uV-SQUY"]
+        ]
+    },
+    "Linux (Pt. 2)": {
+        "date": "9/27/2017",
+        "body": "Slightly more advanced Linux.",
+        "level": 2,
+        "links": [
+            ["Presentation", "https://drive.google.com/open?id=1HkL2KLzZyeWJRgbHUe4Q6n6FQIdVKo__qG7jpHCfiCw"]
+        ]
+    },
+    "Python Basics": {
+        "date": "10/4/2017",
+        "body": "How to use the Python terminal and write basic Python scripts -- intended as introduction to the language.",
+        "level": 1,
+        "links": [
+            ["Python", "https://www.python.org"]
+        ]
+    },
+    "Cryptography Basics": {
+        "date": "10/18/2017",
+        "body": "Classical Ciphers and the basics of cryptanalysis.",
+        "level": 1,
+        "links": [
+            ["Presentation", "https://drive.google.com/open?id=1KwRqpcaaIQ66GHFn5VxGa7VRTWiLfTdxi5v7iSNGhTo"],
+            ["Krypton", "http://overthewire.org/wargames/krypton/"],
+            ["Cryptopals", "https://cryptopals.com/"]
+        ]
+    },
+    "Intermediate Cryptography": {
+        "date": "10/25/2017",
+        "body": "The bits and bytes of cryptography: an overview of modern encryption methods and how they work.",
+        "level": 2,
+        "links": [
+            ["Presentation", "https://drive.google.com/open?id=1O1iZsWqKi5Yr2Sa5Y1F_s6bzkmN6iDY1PHYp1ThdodM"]
+        ]
+    },
+    "Web Exploitation Basics": {
+        "date": "11/1/2017",
+        "body": "How to effectively use Inspect Element and the basics of how websites work, including JS, PHP, and HTTP.",
+        "level": 1,
+        "links": [
+            ["Presentation", "https://drive.google.com/open?id=1hcxgfcr-0wS5De_lSxszyTnMcWErWu5n_K4sJLVwugo"],
+            ["Practice", "https://tjcscwebpractice.herokuapp.com/"],
+            ["Natas", "http://overthewire.org/wargames/natas/"]
+        ]
+    },
+    "Disk Forensics 1": {
+        "date": "11/15/2017",
+        "body": "",
+        "level": 1,
+        "links": [
+            ["Presentation"]
+        ]
+    },
+    "Disk Forensics 2": {
+        "date": "11/22/2017",
+        "body": "",
+        "level": 1,
+        "links": [
+            ["Presentation"]
         ]
     }
 }

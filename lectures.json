@@ -62,16 +62,16 @@
     },
     "Disk Forensics 1": {
         "date": "11/15/2017",
-        "body": "",
+        "body": "Introduction to disk forensics with info on file metadata, file carving, zip file password cracking, and audio forensics.",
         "level": 1,
         "links": [
-            ["Presentation"]
+            ["Presentation", "https://drive.google.com/open?id=1XksEpHZyxwqwkrer_EIntnNm0cazerg0LXuwcVtqSEI"]
         ]
     },
     "Disk Forensics 2": {
-        "date": "11/22/2017",
-        "body": "",
-        "level": 1,
+        "date": "11/29/2017",
+        "body": "Coming soon!",
+        "level": 2,
         "links": [
             ["Presentation"]
         ]

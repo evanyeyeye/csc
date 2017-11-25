@@ -1,8 +1,44 @@
-{
+{    
+    "RUSecure CTF 2017 Qualifying Round": {
+        "url": "https://www.radford.edu/content/csat/home/itec/rusecure-ctf-contest.html",
+        "start_date": "3/17/2018",
+        "end_date": "3/31/2018",
+    },
+    "EasyCTF 2018": {
+        "url": "https://www.easyctf.com/",
+        "start_date": "2/9/2018",
+        "end_date": "2/19/2018",
+    },    
+    "RUSecure CTF 2017 Preliminary Round": {
+        "url": "https://www.radford.edu/content/csat/home/itec/rusecure-ctf-contest.html",
+        "start_date": "11/6/2017 9:00:00",
+        "end_date": "12/9/2017 12:00:00",
+    },    
+    "RUSecure CTF 2017 Preliminary Round": {
+        "url": "https://www.radford.edu/content/csat/home/itec/rusecure-ctf-contest.html",
+        "start_date": "11/6/2017 9:00:00",
+        "end_date": "12/9/2017 12:00:00",
+    },    
     "HSF 2017 Qualification Round": {
         "url": "https://csaw.engineering.nyu.edu/hsf",
         "start_date": "9/22/2017",
-        "end_date": "10/2/2017"
+        "end_date": "10/2/2017",
+        "participants": [
+            [6, "Parse It Up!", 5881],
+            [30, "Shwetark Patel", 2206]
+            [80, "abacaxi", 1126],
+            [106, "Blame Omkar", 856],
+            [146, "The P3nguins", 466],
+            [84, "bigPARSEME", 1076],
+            [191, "TJ Team 10", 271],
+            [155, "SheHasBigParser", 376],
+            [279, "Karel.destroy()", 46],
+            [70, "Freshmen", 1206],
+            [226, "tj123", 116],
+            [206, "rm -rf /", 196],
+            [235, "Aneesh Kotnana", 116],
+            [332, "fjkafhfeefaw", 16]
+        ]        
     },
     "CSAW 2017 Qualification Competition": {
         "url": "https://csaw.engineering.nyu.edu/ctf",
@@ -17,7 +53,13 @@
     "HSCTF 2017": {
         "url": "https://hsctf.com/",
         "start_date": "5/20/2017",
-        "end_date": "5/27/2017"
+        "end_date": "5/27/2017",
+        "participants": [
+            [2, "parse it up", 8850],
+            [17, "phsst", 5750],
+            [68, "1 and 0nly", 2450],
+            [330, "Turner Burners", 550]
+        ]
     },
     "PACTF 2017": {
         "url": "https://2017.pactf.com/",
@@ -99,7 +141,7 @@
             [373, "JellyMellon", 75]
         ]
     },
-    "MITRE CTF 2016": {
+    "MITRE STEM CTF 2016": {
         "url": "http://mitrecyberacademy.org/competitions/",
         "start_date": "9/16/2016",
         "end_date": "9/17/2016",

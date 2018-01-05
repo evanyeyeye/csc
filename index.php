@@ -217,9 +217,10 @@ echo $done;
                                 Capture the Flag (CTF) competitions are fun, online computer security contests that often include problems ranging widely in category and difficulty.
                                 TJ CSC is proud to host one of the few high school managed CTFs in the country, TJCTF! Interested in getting started? Check out this year's introCTF and midCTF.
                             </p>
+                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//activities.tjhsst.edu/cscplatform" target="_blank">Practice</a>
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//introctf.herokuapp.com" target="_blank">introCTF</a>
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//midctf.herokuapp.com" target="_blank">midCTF</a>
-                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//tjctf.org" target="_blank">TJCTF</a>
+                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//tjctf.org" target="_blank" disabled>TJCTF</a>
                             <br/>
                         </div>
                         <div class="col-md-5 col-md-pull-7">

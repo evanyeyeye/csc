@@ -4,10 +4,15 @@
         "start_date": "4/20/2018 15:00:00",
         "end_date": "4/21/2018 15:00:00"
     },
-    "RUSecure CTF 2017 Qualifying Round": {
+    "RUSecure CTF 2018 Qualifying Round": {
         "url": "https://www.radford.edu/content/csat/home/itec/rusecure-ctf-contest.html",
         "start_date": "3/17/2018",
         "end_date": "3/31/2018"
+    },
+    "angstromCTF 2018": {
+        "url": "https://angstromctf.com/",
+        "start_date": "3/16/2018 20:00:00",
+        "end_date": "3/21/2018 20:00:00"
     },
     "EasyCTF 2018": {
         "url": "https://www.easyctf.com/",
@@ -66,7 +71,7 @@
         "start_date": "4/16/2017",
         "end_date": "4/30/2017"
     },
-    "AngstromCTF 2017": {
+    "angstromCTF 2017": {
         "url": "https://angstromctf.com/",
         "start_date": "4/22/2017",
         "end_date": "4/29/2017"
@@ -76,7 +81,7 @@
         "start_date": "3/31/2017",
         "end_date": "4/14/2017"
     },
-    "RUSecure CTF 2016 Qualifying Round": {
+    "RUSecure CTF 2017 Qualifying Round": {
         "url": "https://www.radford.edu/content/csat/home/itec/rusecure-ctf-contest.html",
         "start_date": "3/18/2017",
         "end_date": "4/1/2017",

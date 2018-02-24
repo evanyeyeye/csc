@@ -69,39 +69,39 @@
         ]
     },
     "Image Forensics": {
-        "date": "1/10/2018",
+        "date": "1/17/2018",
         "body": "Least significant bit stenography and other pixel related fun.",
         "level": 2,
         "links": [
-            ["Presentation"]
+            ["Presentation", "https://drive.google.com/open?id=1wIbgzxEjaTNfwvC6SF1KGP3phOahXIexshJJvxhYeRw"]
         ]
     },
     "Memory Forensics": {
-        "date": "1/17/2018",
-        "body": "Coming soon!",
+        "date": "1/24/2018",
+        "body": "Learn all about RAM and how to investigate a memory dump.",
         "level": 2,
         "links": [
-            ["Presentation"]
+            ["Presentation", "https://drive.google.com/open?id=1_X4jGeoKn00CIrcyfyvVk2tTpi4QmqTAAYBWHAck_s4"]
         ]
     },
     "RSA": {
-        "date": "1/24/2018",
-        "body": "Coming soon!",
+        "date": "1/31/2018",
+        "body": "Introduction to public-key vulnerabilities with your favorite cryptosystem: Rivest–Shamir–Adleman.",
         "level": 2,
         "links": [
-            ["Presentation"]
+            ["Presentation", "https://drive.google.com/open?id=1d36vIgk4Vfbz4JdxI8ixpE5KJsGHBFY5H0whGCs9qug"]
+        ]
+    },
+    "Python Connections": {
+        "date": "2/21/2018",
+        "body": "Sockets and requests? This lecture focuses on programming interactions with them using trusty Python modules.",
+        "level": 2,
+        "links": [
+            ["Presentation", "https://drive.google.com/open?id=1UahY8nFUYm5iwIVyR8Xf0xD6NtyNTHO5hww8C-ODfPw"]
         ]
     },
     "Wireshark": {
-        "date": "1/31/2018",
-        "body": "Coming soon!",
-        "level": 2,
-        "links": [
-            ["Presentation"]
-        ]
-    },
-    "Python Requests and Connections": {
-        "date": "2/9/2018",
+        "date": "2/28/2018",
         "body": "Coming soon!",
         "level": 2,
         "links": [

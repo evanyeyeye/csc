@@ -22,7 +22,33 @@
     "EasyCTF 2018": {
         "url": "https://www.easyctf.com/",
         "start_date": "2/9/2018",
-        "end_date": "2/19/2018"
+        "end_date": "2/19/2018",
+        "participants": [
+            [3, "Sice Squad", 5606],
+            [4, "Ter  Martirosyan", 5606],
+            [8, "extradit3d parser!", 5356],
+            [79, "not plad shirts", 2216],
+            [127, "ion", 1536],
+            [128, "TheJareBears", 1506],
+            [132, "Lamebots", 1481],
+            [138, "Wow", 1441],
+            [297, "UgandanKnuckles", 841],
+            [538, "Yutin", 490],
+            [671, "The P3nguins", 391],
+            [723, "01010111 01101001 01101110", 360],
+            [946, "Dan's Team", 261],
+            [1032, "Jurjito Burrito Support Group", 230],
+            [1153, "easyctf {0_0_F}", 190],
+            [1187, "oneperson", 180],
+            [1272, "xddd", 160],
+            [1285, "La Flame", 150],
+            [1350, "EndlessVoid", 130],
+            [1364, "ezcodez", 121],
+            [1588, "Uno", 50],
+            [1670, "turtles", 20],
+            [1683, "Neam Tame", 20],
+            [1709, "Coding Crew", 10]
+        ]                        
     },    
     "RUSecure CTF 2017 Preliminary Round": {
         "url": "https://www.radford.edu/content/csat/home/itec/rusecure-ctf-contest.html",

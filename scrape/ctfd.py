@@ -2,6 +2,7 @@ from lxml import html
 import json
 import requests
 
+# Find TJ teams
 valid_teams = []
 for counter in range(1, 13):
     page = requests.get('https://hsf.csaw.io/teams/{}'.format(counter))
@@ -12,6 +13,7 @@ for counter in range(1, 13):
             if team.lower() in {"tjhsst", "thomas jefferson high school for science and technology"}:
                 valid_teams.append(row.xpath('./td[1]/a/@href')[0])
 
+# Scrape info
 team_data = []
 for team in valid_teams:
     page = requests.get('https://hsf.csaw.io{}'.format(team))    

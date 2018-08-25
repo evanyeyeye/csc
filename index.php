@@ -288,7 +288,7 @@ foreach ($data as $key => $val) {
                                 Join our Slack or mailing list to receive club announcements:
                                 <br /><br />
                                 <a href="https://tjcsc.slack.com/" class="btn btn-primary btn-outline btn-lg" target="_blank">Slack</a>
-                                <a href="//lists.tjhsst.edu/listinfo/csc" class="btn btn-primary btn-outline btn-lg" target="_blank">
+                                <a href="https://lists.tjhsst.edu/postorius/lists/csc.lists.tjhsst.edu/" class="btn btn-primary btn-outline btn-lg" target="_blank">
                                     Mailing List
                                 </a>
                             </p>
@@ -302,7 +302,7 @@ foreach ($data as $key => $val) {
             <div class="container" style="margin-right:0;">
                 <div class="row">
                     <div class="col-md-12">
-                        <p style="font-size:10px;">TJ CSC 2017<br />Omkar Kulkarni</p>
+                        <p style="font-size:10px;">TJ CSC 2018<br />Ritvik Jayakumar</p>
                     </div>
                 </div>
             </div>

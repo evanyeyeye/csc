@@ -1,108 +1,88 @@
 {
     "Introduction": {
-        "date": "9/13/2017",
+        "date": "9/12/2018",
         "body": "Brief introduction of the club, including an overview of topics and Capture the Flag competitions.",
         "level": 1,
         "links": [
-            ["Presentation", "https://drive.google.com/open?id=1jIbHUx0FLwhDcV2Ztsi7PdUpL7W6k4jMpVQKIqGaFek"],
+            ["Presentation"],
             ["IntroCTF", "https://introctf.herokuapp.com/"]
         ]
     },
     "Linux Command Line": {
-        "date": "9/20/2017",
-        "body": "The basics of using Linux from the command line, a prerequisite skill for numerous CTF tools.",
+        "date": "9/26/2018",
+        "body": "",
         "level": 1,
         "links": [
-            ["Presentation", "https://drive.google.com/open?id=1ObNPx6k05uvgJMy6i8A7rR0S2Cq1tInuf6l9uV-SQUY"]
-        ]
-    },
-    "Linux (Pt. 2)": {
-        "date": "9/27/2017",
-        "body": "Slightly more advanced Linux.",
-        "level": 2,
-        "links": [
-            ["Presentation", "https://drive.google.com/open?id=1HkL2KLzZyeWJRgbHUe4Q6n6FQIdVKo__qG7jpHCfiCw"]
+            ["Presentation"]
         ]
     },
     "Python Basics": {
-        "date": "10/4/2017",
-        "body": "How to use the Python terminal and write basic Python scripts -- intended as introduction to the language.",
+        "date": "10/17/2018",
+        "body": "",
         "level": 1,
         "links": [
             ["Python", "https://www.python.org"]
         ]
     },
-    "Cryptography Basics": {
-        "date": "10/18/2017",
-        "body": "Classical Ciphers and the basics of cryptanalysis.",
+    "Web Basics": {
+        "date": "10/24/2018",
+        "body": "",
         "level": 1,
         "links": [
-            ["Presentation", "https://drive.google.com/open?id=1KwRqpcaaIQ66GHFn5VxGa7VRTWiLfTdxi5v7iSNGhTo"],
-            ["Krypton", "http://overthewire.org/wargames/krypton/"],
-            ["Cryptopals", "https://cryptopals.com/"]
+            ["Presentation"]
         ]
     },
-    "Intermediate Cryptography": {
-        "date": "10/25/2017",
-        "body": "The bits and bytes of cryptography: an overview of modern encryption methods and how they work.",
-        "level": 2,
-        "links": [
-            ["Presentation", "https://drive.google.com/open?id=1O1iZsWqKi5Yr2Sa5Y1F_s6bzkmN6iDY1PHYp1ThdodM"]
-        ]
-    },
-    "Web Exploitation Basics": {
-        "date": "11/1/2017",
-        "body": "How to effectively use Inspect Element and the basics of how websites work, including JS, PHP, and HTTP.",
+    "File Formats and Carving": {
+        "date": "10/31/2018",
+        "body": "",
         "level": 1,
         "links": [
-            ["Presentation", "https://drive.google.com/open?id=1hcxgfcr-0wS5De_lSxszyTnMcWErWu5n_K4sJLVwugo"],
-            ["Practice", "https://tjcscwebpractice.herokuapp.com/"],
-            ["Natas", "http://overthewire.org/wargames/natas/"]
+            ["Presentation"]
         ]
     },
-    "Disk Forensics": {
-        "date": "11/15/2017",
-        "body": "Introduction to disk forensics with info on file metadata, file carving, zip file password cracking, and audio forensics.",
+    "Stenography": {
+        "date": "11/14/2018",
+        "body": "",
         "level": 1,
         "links": [
-            ["Presentation", "https://drive.google.com/open?id=1XksEpHZyxwqwkrer_EIntnNm0cazerg0LXuwcVtqSEI"]
+            ["Presentation"]
         ]
     },
-    "Image Forensics": {
-        "date": "1/17/2018",
-        "body": "Least significant bit stenography and other pixel related fun.",
-        "level": 2,
+    "Python and JavaScript Jailbreaking": {
+        "date": "11/28/2018",
+        "body": "",
+        "level": 1,
         "links": [
-            ["Presentation", "https://drive.google.com/open?id=1wIbgzxEjaTNfwvC6SF1KGP3phOahXIexshJJvxhYeRw"]
+            ["Presentation"]
         ]
     },
-    "Memory Forensics": {
-        "date": "1/24/2018",
-        "body": "Learn all about RAM and how to investigate a memory dump.",
-        "level": 2,
+    "Assembly": {
+        "date": "11/28/2018",
+        "body": "",
+        "level": 1,
         "links": [
-            ["Presentation", "https://drive.google.com/open?id=1_X4jGeoKn00CIrcyfyvVk2tTpi4QmqTAAYBWHAck_s4"]
+            ["Presentation"]
         ]
     },
-    "RSA": {
-        "date": "1/31/2018",
-        "body": "Introduction to public-key vulnerabilities with your favorite cryptosystem: Rivest–Shamir–Adleman.",
+    "Assembly Part Two": {
+        "date": "11/28/2018",
+        "body": "",
         "level": 2,
         "links": [
-            ["Presentation", "https://drive.google.com/open?id=1d36vIgk4Vfbz4JdxI8ixpE5KJsGHBFY5H0whGCs9qug"]
-        ]
-    },
-    "Python Connections": {
-        "date": "2/21/2018",
-        "body": "Sockets and requests? This lecture focuses on programming interactions with them using trusty Python modules.",
-        "level": 2,
-        "links": [
-            ["Presentation", "https://drive.google.com/open?id=1UahY8nFUYm5iwIVyR8Xf0xD6NtyNTHO5hww8C-ODfPw"]
+            ["Presentation"]
         ]
     },
     "Wireshark": {
-        "date": "2/28/2018",
-        "body": "Coming soon!",
+        "date": "1/09/2018",
+        "body": "",
+        "level": 2,
+        "links": [
+            ["Presentation"]
+        ]
+    },
+    "Volatility and Disk Forensics": {
+        "date": "1/16/2018",
+        "body": "",
         "level": 2,
         "links": [
             ["Presentation"]

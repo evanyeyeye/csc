@@ -60,13 +60,14 @@
                                 Occasionally, blocks may be spent participating in CTFs, watching pertinent videos, or listening to guest speakers.
                                 We meet <b>Wednesdays</b> during 8th periods both <b>A and B block</b>.
                                 <br /><br />
-                                <a href="https://drive.google.com/drive/folders/0B6QpsY4fkhpRdzhicG04TlRGQ2c" class="btn btn-primary btn-outline btn-lg" target="_blank">Current Presentations</a>
+                                <a href="https://drive.google.com/drive/folders/1j9EGvwwaA4IoGUe7dHG-p-7EU9EFPIbI" class="btn btn-primary btn-outline btn-lg" target="_blank">Current Presentations</a>
                                 <div class="dropdown" style="display:inline-block">
                                     <button class="btn btn-primary btn-outline btn-lg dropdown-toggle" type="button" id="dropdownOld" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                         Old Presentations
                                         <span class="caret"></s/pan>
                                     </button>
                                     <ul class="dropdown-menu" aria-labelledby="dropdownOld">
+                                        <li><a href="https://drive.google.com/drive/folders/0B6QpsY4fkhpRdzhicG04TlRGQ2c" target="_blank">2016 - 2017</a></li>
                                         <li><a href="https://drive.google.com/drive/folders/0B5DvBrjbHOdPZjBPZldPUGg1eHc" target="_blank">2016 - 2017</a></li>
                                         <li><a href="https://drive.google.com/drive/folders/0B5DvBrjbHOdPVTNIZzFxU01NWFE" target="_blank">2015 - 2016</a></li>
                                         <li><a href="https://drive.google.com/drive/folders/0B1fA1ynKhdPtMUVOVGhsVTNvbWc" target="_blank">2014 - 2015</a></li>
@@ -89,57 +90,57 @@
                         CSC's officers are elected yearly and are tasked with managing CSC, developing and presenting club lectures, and running TJCTF.  Feel free to ask club officers any computer security-related questions you have!
                     </p>
                     <div class="row">
-                        <div class="col-md-1"></div>
-                        <div class="col-md-5">
-                            <div class="row">
-                                <div class="col-xs-6 officer">
-                                    <p class="lead">Neil Thistlethwaite</p>
-                                    <h4>President</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/neil.png" alt="Neil Thistlethwaite">
-                                </div>
-                                <div class="col-xs-6 officer">
-                                    <p class="lead">Evan Shi</p>
-                                    <h4>Chief Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/evan.png" alt="Evan Shi">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-5">
-                            <div class="row">
-                                <div class="col-xs-6 officer">
-                                    <p class="lead">Emily Quan</p>
-                                    <h4>Treasurer</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/emily.png" alt="Emily Quan">
-                                </div>
-                                <div class="col-xs-6 officer">
-                                    <p class="lead">Omkar Kulkarni</p>
-                                    <h4>Webmaster</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/omkar.png" alt="Omkar Kulkarni">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-1"></div>
-                    </div>
-                    <div class="row">
                         <div class="col-md-2"></div>
                         <div class="col-md-8">
                             <div class="col-md-4 col-xs-6 officer">
-                                <p class="lead">James Frucht</p>
-                                <h4>Lecturer</h4>
-                                <img class="img-responsive img-circle" src="images/officers/james.jpg" alt="James Frucht">
-                            </div>
-                            <div class="col-md-4 col-xs-6 officer">
-                                <p class="lead">Aneesh Kotnana</p>
-                                <h4>Lecturer</h4>
-                                <img class="img-responsive img-circle" src="images/officers/aneesh.png" alt="Aneesh Kotnana">
+                                <p class="lead">Evan Shi</p>
+                                <h4>President</h4>
+                                <img class="img-responsive img-circle" src="images/officers/evan.jpg" alt="Evan Shi">
                             </div>
                             <div class="col-md-4 col-xs-6 officer">
                                 <p class="lead">Hanna Xu</p>
-                                <h4>Lecturer</h4>
+                                <h4>Head Lecturer</h4>
                                 <img class="img-responsive img-circle" src="images/officers/hanna.png" alt="Hanna Xu">
+                            </div>
+                            <div class="col-md-4 col-xs-6 officer">
+                                <p class="lead">Ritvik Jayakumar</p>
+                                <h4>Statistician</h4>
+                                <img class="img-responsive img-circle" src="images/officers/ritvik.jpg" alt="Ritvik Jayakumar">
                             </div>
                         </div>
                         <div class="col-md-2"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-1"></div>
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-xs-6 officer">
+                                    <p class="lead">James Frucht</p>
+                                    <h4>Lecturer</h4>
+                                    <img class="img-responsive img-circle" src="images/officers/james.jpg" alt="James Frucht">
+                                </div>
+                                <div class="col-xs-6 officer">
+                                    <p class="lead">Daniel Wisdom</p>
+                                    <h4>Lecturer</h4>
+                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Daniel Wisdom">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-xs-6 officer">
+                                    <p class="lead">Omkar Kulkarni</p>
+                                    <h4>Lecturer</h4>
+                                    <img class="img-responsive img-circle" src="images/officers/omkar.png" alt="Omkar Kulkarni">
+                                </div>
+                                <div class="col-xs-6 officer">
+                                    <p class="lead">Daniel Carr</p>
+                                    <h4>Lecturer</h4>
+                                    <img class="img-responsive img-circle" src="images/officers/danielc.png" alt="Daniel Carr">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-1"></div>
                     </div>
                 </div>
             </div>

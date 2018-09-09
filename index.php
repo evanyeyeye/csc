@@ -67,7 +67,7 @@
                                         <span class="caret"></s/pan>
                                     </button>
                                     <ul class="dropdown-menu" aria-labelledby="dropdownOld">
-                                        <li><a href="https://drive.google.com/drive/folders/0B6QpsY4fkhpRdzhicG04TlRGQ2c" target="_blank">2016 - 2017</a></li>
+                                        <li><a href="https://drive.google.com/drive/folders/0B6QpsY4fkhpRdzhicG04TlRGQ2c" target="_blank">2017 - 2018</a></li>
                                         <li><a href="https://drive.google.com/drive/folders/0B5DvBrjbHOdPZjBPZldPUGg1eHc" target="_blank">2016 - 2017</a></li>
                                         <li><a href="https://drive.google.com/drive/folders/0B5DvBrjbHOdPVTNIZzFxU01NWFE" target="_blank">2015 - 2016</a></li>
                                         <li><a href="https://drive.google.com/drive/folders/0B1fA1ynKhdPtMUVOVGhsVTNvbWc" target="_blank">2014 - 2015</a></li>
@@ -95,7 +95,7 @@
                             <div class="col-md-4 col-xs-6 officer">
                                 <p class="lead">Evan Shi</p>
                                 <h4>President</h4>
-                                <img class="img-responsive img-circle" src="images/officers/evan.jpg" alt="Evan Shi">
+                                <img class="img-responsive img-circle" src="images/officers/evan.png" alt="Evan Shi">
                             </div>
                             <div class="col-md-4 col-xs-6 officer">
                                 <p class="lead">Hanna Xu</p>

@@ -1,4 +1,37 @@
-{    
+{
+    "MITRE STEM CTF 2019": {
+        "url": "https://mitrestemctf.org/",
+        "start_date": "1/11/2019 14:00:00",
+        "end_date": "1/12/2019 14:00:00"
+    },
+    "Lockheed Martin CYBERQUEST": {
+        "url": "https://www.lockheedmartin.com/en-us/who-we-are/communities/cyber-quest.html",
+        "start_date": "10/20/2018 10:00:00",
+        "end_date": "10/20/2018 15:30:00"
+    },
+    "picoCTF": {
+        "url": "https://csaw.engineering.nyu.edu/RED",
+        "start_date": "9/28/2018 12:00:00",
+        "end_date": "10/20/2018 12:00:00"
+    },
+    "CSAW Red Team Competition": {
+        "url": "https://csaw.engineering.nyu.edu/RED",
+        "start_date": "9/21/2018 16:00:00",
+        "end_date": "9/30/2018 16:00:00"
+    },
+    "TJCTF": {
+        "url": "https://tjctf.org/",
+        "start_date": "8/6/2018 21:00:00",
+        "end_date": "8/12/2018 21:00:00"
+    },
+    "HSCTF 2018": {
+        "url": "https://hsctf.com/",
+        "start_date": "5/19/2018",
+        "end_date": "5/26/2018",
+        "particpants": [
+          [6, "tjcsc", 7525]
+        ]
+    },
     "MITRE STEM CTF 2018": {
         "url": "http://mitrecyberacademy.org/competitions/",
         "start_date": "4/20/2018 15:00:00",
@@ -48,13 +81,13 @@
             [1670, "turtles", 20],
             [1683, "Neam Tame", 20],
             [1709, "Coding Crew", 10]
-        ]                        
-    },    
+        ]
+    },
     "RUSecure CTF 2017 Preliminary Round": {
         "url": "https://www.radford.edu/content/csat/home/itec/rusecure-ctf-contest.html",
         "start_date": "11/6/2017 9:00:00",
         "end_date": "12/9/2017 12:00:00"
-    },    
+    },
     "HSF 2017 Qualification Round": {
         "url": "https://csaw.engineering.nyu.edu/hsf",
         "start_date": "9/22/2017",
@@ -66,15 +99,15 @@
             [80, "abacaxi", 1126],
             [84, "bigPARSEME", 1076],
             [106, "Blame Omkar", 856],
-            [146, "The P3nguins", 466],            
+            [146, "The P3nguins", 466],
             [155, "SheHasBigParser", 376],
-            [191, "TJ Team 10", 271],            
+            [191, "TJ Team 10", 271],
             [206, "rm -rf /", 196],
             [226, "tj123", 116],
             [235, "Aneesh Kotnana", 116],
-            [279, "Karel.destroy()", 46],                                                
+            [279, "Karel.destroy()", 46],
             [332, "fjkafhfeefaw", 16]
-        ]        
+        ]
     },
     "CSAW 2017 Qualification Competition": {
         "url": "https://csaw.engineering.nyu.edu/ctf",
@@ -117,7 +150,7 @@
         "start_date": "3/18/2017",
         "end_date": "4/1/2017",
         "participants": [
-            [1, "hungry hippos"] 
+            [1, "hungry hippos"]
         ]
     },
     "EasyCTF 2017": {

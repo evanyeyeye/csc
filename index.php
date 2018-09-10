@@ -221,7 +221,7 @@ echo $done;
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//activities.tjhsst.edu/cscplatform" target="_blank">Practice</a>
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//introctf.herokuapp.com" target="_blank">introCTF</a>
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//midctf.herokuapp.com" target="_blank">midCTF</a>
-                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//tjctf.org" target="_blank" disabled>TJCTF</a>
+                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//tjctf.org" target="_blank">TJCTF</a>
                             <br/>
                         </div>
                         <div class="col-md-5 col-md-pull-7">
@@ -288,7 +288,7 @@ foreach ($data as $key => $val) {
                             <p class="lead description">
                                 Join our Slack or mailing list to receive club announcements:
                                 <br /><br />
-                                <a href="https://tjcsc.slack.com/" class="btn btn-primary btn-outline btn-lg" target="_blank">Slack</a>
+                                <a href="https://www.facebook.com/groups/tjcsc/?hc_location=group" class="btn btn-primary btn-outline btn-lg" target="_blank">Facebook Group</a>
                                 <a href="https://lists.tjhsst.edu/postorius/lists/csc.lists.tjhsst.edu/" class="btn btn-primary btn-outline btn-lg" target="_blank">
                                     Mailing List
                                 </a>

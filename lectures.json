@@ -4,7 +4,7 @@
         "body": "Brief introduction of the club, including an overview of topics and Capture the Flag competitions.",
         "level": 1,
         "links": [
-            ["Presentation"],
+            ["Presentation", "https://drive.google.com/open?id=10RsEoH1xzagx-rpt0OkyIn4zCzwyZ9BX4WUerpLHaYY"],
             ["IntroCTF", "https://introctf.herokuapp.com/"]
         ]
     },

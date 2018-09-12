@@ -158,7 +158,7 @@ $done = '';
 foreach ($data as $key => $val) {
     $panel = '';
     $block = '';
-    $is_done = time() > strtotime($val->date);
+    $is_done = time() > strtotime('+1 day', $val->date);
     if (property_exists($val, "block")) {
         $block = ', ' . $val->block . ' Block';
     }

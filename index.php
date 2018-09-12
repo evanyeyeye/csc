@@ -220,7 +220,7 @@ echo $done;
                             </p>
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//activities.tjhsst.edu/cscplatform" target="_blank">Practice</a>
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//introctf.sites.tjhsst.edu" target="_blank">introCTF</a>
-                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//midctf.herokuapp.com" target="_blank">midCTF</a>
+                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//midctf.sites.tjhsst.edu" target="_blank">midCTF</a>
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//tjctf.org" target="_blank">TJCTF</a>
                             <br/>
                         </div>

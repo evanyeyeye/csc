@@ -10,9 +10,27 @@
         "end_date": "10/20/2018 15:30:00"
     },
     "picoCTF": {
-        "url": "https://csaw.engineering.nyu.edu/RED",
+        "url": "https://picoctf.com/",
         "start_date": "9/28/2018 12:00:00",
-        "end_date": "10/20/2018 12:00:00"
+        "end_date": "10/20/2018 12:00:00",
+        "participants": [
+            [7,"tjcsc",31685],
+            [79,"NoCaptainsHere",12260],
+            [86,"Wow2",11485],
+            [112,"The JareBares",9935],
+            [130,"tj csc",9035],
+            [167,"SAD team",7885],
+            [424,"qubits",3960],
+            [448,"jhynx",3785],
+            [1028,"redjackt",1460],
+            [1273,"picobrains",1110],
+            [1628,"BigIgg",750],
+            [1907,"Snoopy0779",575],
+            [2173,"incognitofox",425],
+            [2232,"ERMS + 1",400],
+            [2744,"VApatriot1",250],
+            [2814,"zzx",200]
+        ]
     },
     "CSAW Red Team Competition": {
         "url": "https://csaw.engineering.nyu.edu/RED",

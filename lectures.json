@@ -13,7 +13,7 @@
         "body": "",
         "level": 1,
         "links": [
-            ["Presentation"]
+            ["Presentation", "https://drive.google.com/open?id=1x5b3kWcHhiHXZwTQJ0SX-gYoK6S6_SKvlrj-dI1FckY"]
         ]
     },
     "Python Basics": {
@@ -21,6 +21,7 @@
         "body": "",
         "level": 1,
         "links": [
+            ["Presentation", "https://drive.google.com/open?id=1k-konAIew7q5wGkGifRoZnKVX-iB4Y7W-c3uLa4dlgg"],
             ["Python", "https://www.python.org"]
         ]
     },

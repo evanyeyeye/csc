@@ -7,12 +7,15 @@
     "Lockheed Martin CYBERQUEST": {
         "url": "https://www.lockheedmartin.com/en-us/who-we-are/communities/cyber-quest.html",
         "start_date": "10/20/2018 10:00:00",
-        "end_date": "10/20/2018 15:30:00"
+        "end_date": "10/20/2018 15:30:00",
+        "participants": [
+            [1,"tjcsc", 435]
+        ]
     },
     "picoCTF": {
         "url": "https://picoctf.com/",
         "start_date": "9/28/2018 12:00:00",
-        "end_date": "10/20/2018 12:00:00",
+        "end_date": "10/12/2018 12:00:00",
         "participants": [
             [7,"tjcsc",31685],
             [79,"NoCaptainsHere",12260],
@@ -35,7 +38,10 @@
     "CSAW Red Team Competition": {
         "url": "https://csaw.engineering.nyu.edu/RED",
         "start_date": "9/21/2018 16:00:00",
-        "end_date": "9/30/2018 16:00:00"
+        "end_date": "9/30/2018 16:00:00",
+        "participants": [
+            [4, "kelly", 7335]
+        ]
     },
     "TJCTF": {
         "url": "https://tjctf.org/",

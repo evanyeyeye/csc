@@ -30,8 +30,7 @@
         "body": "",
         "level": 1,
         "links": [
-            ["Presentation"],
-            ["Python", "https://www.python.org"]
+            ["Presentation"]
         ]
     },
     "Web Basics": {

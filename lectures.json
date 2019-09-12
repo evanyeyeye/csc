@@ -1,88 +1,65 @@
 {
     "Introduction": {
-        "date": "9/12/2018",
+        "date": "9/18/2019",
         "body": "Brief introduction of the club, including an overview of topics and Capture the Flag competitions.",
         "level": 1,
         "links": [
-            ["Presentation", "https://drive.google.com/open?id=10RsEoH1xzagx-rpt0OkyIn4zCzwyZ9BX4WUerpLHaYY"],
+            ["Presentation"],
             ["IntroCTF", "https://introctf.herokuapp.com/"]
         ]
     },
-    "Linux Command Line": {
-        "date": "9/26/2018",
+    "Linux Basics": {
+        "date": "9/25/2019",
         "body": "",
         "level": 1,
         "links": [
-            ["Presentation", "https://drive.google.com/open?id=1x5b3kWcHhiHXZwTQJ0SX-gYoK6S6_SKvlrj-dI1FckY"]
+            ["Presentation"]
         ]
     },
     "Python Basics": {
-        "date": "10/17/2018",
+        "date": "10/2/2019",
         "body": "",
         "level": 1,
         "links": [
-            ["Presentation", "https://drive.google.com/open?id=1k-konAIew7q5wGkGifRoZnKVX-iB4Y7W-c3uLa4dlgg"],
+            ["Presentation"],
+            ["Python", "https://www.python.org"]
+        ]
+    },
+    "Crypto Basics": {
+        "date": "10/9/2019",
+        "body": "",
+        "level": 1,
+        "links": [
+            ["Presentation"],
             ["Python", "https://www.python.org"]
         ]
     },
     "Web Basics": {
-        "date": "10/24/2018",
-        "body": "",
-        "level": 1,
-        "links": [
-            ["Presentation", "https://drive.google.com/open?id=1jCHS2tmEhssWS6YKLI9a8zYvx5SaaDANSCycJdEumRo"]
-        ]
-    },
-    "File Forensics": {
-        "date": "10/31/2018",
-        "body": "",
-        "level": 1,
-        "links": [
-            ["Presentation", "https://drive.google.com/open?id=1yj60gBPYn0HyKSpZGwH0sgkWrzdy3jxlTU0vk9_yyfk"]
-        ]
-    },
-    "Image Forensics": {
-        "date": "11/14/2018",
-        "body": "",
-        "level": 1,
-        "links": [
-            ["Presentation", "https://drive.google.com/open?id=1i_Y4qFhuaAod7bvMzhNeuP8gbUE6FmLedNQA0f84j5k"]
-        ]
-    },
-    "Python and JavaScript Jailbreaking": {
-        "date": "11/28/2018",
-        "body": "",
-        "level": 1,
-        "links": [
-            ["Presentation", "https://drive.google.com/open?id=1SjDo_79Gzjgc51vl-JsGs5vBbfsNIoRPcBywYJbRlLE"]
-        ]
-    },
-    "Assembly": {
-        "date": "12/5/2018",
+        "date": "10/30/2019",
         "body": "",
         "level": 1,
         "links": [
             ["Presentation"]
         ]
     },
-    "Assembly Part Two": {
-        "date": "12/12/2018",
+    "SQL Injection": {
+        "date": "11/6/2019",
+        "body": "",
+        "level": 1,
+        "links": [
+            ["Presentation"]
+        ]
+    },
+    "Requests & Connections": {
+        "date": "11/13/2019",
         "body": "",
         "level": 2,
         "links": [
             ["Presentation"]
         ]
     },
-    "Wireshark": {
-        "date": "1/09/2019",
-        "body": "",
-        "level": 2,
-        "links": [
-            ["Presentation"]
-        ]
-    },
-    "Volatility and Disk Forensics": {
-        "date": "1/16/2019",
+    "File Formats & Carving": {
+        "date": "11/20/2019",
         "body": "",
         "level": 2,
         "links": [

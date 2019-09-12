@@ -220,8 +220,8 @@ echo $done;
                                 TJ CSC is proud to host one of the few high school managed CTFs in the country, TJCTF! Interested in getting started? Check out this year's introCTF and midCTF.
                             </p>
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//activities.tjhsst.edu/cscplatform" target="_blank">Practice</a>
-                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//introctf.sites.tjhsst.edu" target="_blank">introCTF</a>
-                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//midctf.sites.tjhsst.edu" target="_blank">midCTF</a>
+                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="https://introctf.herokuapp.com" target="_blank">introCTF</a>
+                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="https://midctf.herokuapp.com" target="_blank">midCTF</a>
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//tjctf.org" target="_blank">TJCTF</a>
                             <br/>
                         </div>

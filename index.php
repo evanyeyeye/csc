@@ -94,19 +94,19 @@
                         <div class="col-md-2"></div>
                         <div class="col-md-8">
                             <div class="col-md-4 col-xs-6 officer">
-                                <p class="lead">Evan Shi</p>
+                                <p class="lead">Daniel Carr</p>
                                 <h4>President</h4>
-                                <img class="img-responsive img-circle" src="images/officers/evan.png" alt="Evan Shi">
+                                <img class="img-responsive img-circle" src="images/officers/danielc.png" alt="Daniel Carr">
                             </div>
                             <div class="col-md-4 col-xs-6 officer">
-                                <p class="lead">Hanna Xu</p>
-                                <h4>Head Lecturer</h4>
-                                <img class="img-responsive img-circle" src="images/officers/hanna.png" alt="Hanna Xu">
+                                <p class="lead">Darin Mao</p>
+                                <h4>Vice President</h4>
+                                <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Darin Mao">
                             </div>
                             <div class="col-md-4 col-xs-6 officer">
-                                <p class="lead">Ritvik Jayakumar</p>
+                                <p class="lead">Saigautam Bonam</p>
                                 <h4>Statistician</h4>
-                                <img class="img-responsive img-circle" src="images/officers/ritvik.jpg" alt="Ritvik Jayakumar">
+                                <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Saigautam Bonam">
                             </div>
                         </div>
                         <div class="col-md-2"></div>
@@ -116,28 +116,28 @@
                         <div class="col-md-5">
                             <div class="row">
                                 <div class="col-xs-6 officer">
-                                    <p class="lead">James Frucht</p>
+                                    <p class="lead">Andy Chen</p>
                                     <h4>Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/james.jpg" alt="James Frucht">
+                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Andy Chen">
                                 </div>
                                 <div class="col-xs-6 officer">
-                                    <p class="lead">Daniel Wisdom</p>
+                                    <p class="lead">Johnny Pesavento</p>
                                     <h4>Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Daniel Wisdom">
+                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Johnny Pesavento">
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-5">
                             <div class="row">
                                 <div class="col-xs-6 officer">
-                                    <p class="lead">Omkar Kulkarni</p>
+                                    <p class="lead">Ritvik Jayakumar</p>
                                     <h4>Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/omkar.png" alt="Omkar Kulkarni">
+                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Ritvik Jayakumar">
                                 </div>
                                 <div class="col-xs-6 officer">
-                                    <p class="lead">Daniel Carr</p>
+                                    <p class="lead">Aneesh Boreda</p>
                                     <h4>Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/officers/danielc.png" alt="Daniel Carr">
+                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Aneesh Boreda">
                                 </div>
                             </div>
                         </div>

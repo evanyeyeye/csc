@@ -304,7 +304,7 @@ foreach ($data as $key => $val) {
             <div class="container" style="margin-right:0;">
                 <div class="row">
                     <div class="col-md-12">
-                        <p style="font-size:10px;">TJ CSC 2018<br />Ritvik Jayakumar</p>
+                        <p style="font-size:10px;">TJ CSC 2019<br />Saigautam Bonam</p>
                     </div>
                 </div>
             </div>

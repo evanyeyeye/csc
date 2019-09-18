@@ -132,7 +132,7 @@
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Ritvik Jayakumar</p>
                                     <h4>Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Ritvik Jayakumar">
+                                    <img class="img-responsive img-circle" src="images/officers/ritvik.jpg" alt="Ritvik Jayakumar">
                                 </div>
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Aneesh Boreda</p>

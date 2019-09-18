@@ -60,7 +60,7 @@
                                 Occasionally, blocks may be spent participating in CTFs, watching pertinent videos, or listening to guest speakers.
                                 We meet <b>Wednesdays</b> during 8th periods both <b>A and B block</b>.
                                 <br /><br />
-                                <a href="https://drive.google.com/drive/folders/1EOxRcVndPHJ_EDs3ReJm8Sd3Bsbtm_Xq" class="btn btn-primary btn-outline btn-lg disabled" target="_blank">Current Presentations</a>
+                                <a href="https://drive.google.com/drive/folders/1EOxRcVndPHJ_EDs3ReJm8Sd3Bsbtm_Xq" class="btn btn-primary btn-outline btn-lg" target="_blank">Current Presentations</a>
                                 <div class="dropdown" style="display:inline-block">
                                     <button class="btn btn-primary btn-outline btn-lg dropdown-toggle" type="button" id="dropdownOld" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                                         Old Presentations

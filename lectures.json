@@ -21,7 +21,7 @@
         "body": "",
         "level": 1,
         "links": [
-            ["Presentation"],
+            ["Presentation", "https://docs.google.com/presentation/d/1bG2UeDSVI9p2qhhkU3hVX1niPtzokON8r4MaZrSeLS8"],
             ["Python", "https://www.python.org"]
         ]
     },

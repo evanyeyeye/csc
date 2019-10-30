@@ -30,7 +30,7 @@
         "body": "",
         "level": 1,
         "links": [
-            ["Presentation", "https://docs.google.com/presentation/d/15p_lhWgFkZjlKaqvJECce6Jv02aK9JI2o6KcS_tW0rs/edit"]
+            ["Presentation", "https://docs.google.com/presentation/d/15p_lhWgFkZjlKaqvJECce6Jv02aK9JI2o6KcS_tW0rs"]
         ]
     },
     "Web Basics": {
@@ -38,7 +38,7 @@
         "body": "",
         "level": 1,
         "links": [
-            ["Presentation"]
+            ["Presentation","https://docs.google.com/presentation/d/14o6ipH0a1WYTvTvkkm4jcp2sulKgZ-_PLguqB3fcANw"]
         ]
     },
     "SQL Injection": {

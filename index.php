@@ -101,7 +101,7 @@
                             <div class="col-md-4 col-xs-6 officer">
                                 <p class="lead">Darin Mao</p>
                                 <h4>Vice President</h4>
-                                <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Darin Mao">
+                                <img class="img-responsive img-circle" src="images/officers/darin.png" alt="Darin Mao">
                             </div>
                             <div class="col-md-4 col-xs-6 officer">
                                 <p class="lead">Saigautam Bonam</p>

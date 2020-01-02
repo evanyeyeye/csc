@@ -118,7 +118,7 @@
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Andy Chen</p>
                                     <h4>Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Andy Chen">
+                                    <img class="img-responsive img-circle" src="images/officers/andy.jpg" alt="Andy Chen">
                                 </div>
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Johnny Pesavento</p>

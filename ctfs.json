@@ -1,4 +1,76 @@
 {
+    "CSAW CTF Final Round 2019": {
+        "url": "http://ctf.csaw.io/",
+        "start_date": "11/6/2019 19:00:00",
+        "end_date": "11/8/2019 14:00:00"
+    },     
+    "Lockheed Martin CyberQuest 2019": {
+        "url": "http://ctf.csaw.io/",
+        "start_date": "10/26/2019 11:30:00",
+        "end_date": "10/26/2019 2:30:00",
+        "participants": [
+            [2,"tjcsc",400]
+        ]
+    },      
+    "picoCTF 2019": {
+        "url": "https://2019game.picoctf.com/",
+        "start_date": "9/27/2019 12:00:00",
+        "end_date": "10/11/2019 12:00:00",
+        "participants": [
+            [13,"tjcsc",32701],
+            [34,"OPSEC",26151],
+            [47,"Lamebots",22301],
+            [133,"i hate dan healey",14851],
+            [247,"DEK'd",10800],
+            [219,"agcdragon2",11600],
+            [506,"P coming through",6700],
+            [2519,"VAPatriot Scuba Squad",1250],
+            [2537,"rfm0905",1250],
+            [2710,"PyroBorg",1100],
+            [4392,"akarp",250],
+            [5624,"GildedBaboon",100],
+            [5794,"SG123",100],
+            [5811,"bluehelium",100]
+        ]
+    },     
+    "CSAW CTF Qualification Round 2019": {
+        "url": "http://ctf.csaw.io/",
+        "start_date": "9/13/2019 20:00:00",
+        "end_date": "9/15/2019 20:00:00"
+    },      
+    "RedpwnCTF 2019": {
+        "url": "https://redpwn.net/",
+        "start_date": "8/12/2019 16:00:00",
+        "end_date": "8/16/2019 16:00:00",
+        "participants": [
+            [16,"tjcsc", 6197]
+        ]
+    },  
+    "HSCTF 6": {
+        "url": "https://hsctf.com/",
+        "start_date": "6/3/2019 7:00:00",
+        "end_date": "6/7/2019 19:00:00"
+    },        
+    "Facebook CTF 2019": {
+        "url": "http://www.fbctf.com/",
+        "start_date": "6/1/2019 0:00:00",
+        "end_date": "6/3/2019 0:00:00"
+    },    
+    "ångstromCTF 2019": {
+        "url": "https://2019.angstromctf.com/",
+        "start_date": "4/20/2019 0:00:00",
+        "end_date": "4/25/2019 0:00:00"
+    },    
+    "TJCTF 2019": {
+        "url": "https://tjctf.org/",
+        "start_date": "4/5/2019 23:00:00",
+        "end_date": "4/9/2019 23:00:00"
+    },
+    "TAMUctf 2019": {
+        "url": "https://tamuctf.com/",
+        "start_date": "2/23/2019 0:00:00",
+        "end_date": "3/4/2019 0:00:00"
+    },
     "MITRE STEM CTF 2019": {
         "url": "https://mitrestemctf.org/",
         "start_date": "1/11/2019 14:00:00",

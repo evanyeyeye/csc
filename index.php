@@ -222,6 +222,7 @@ echo $done;
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//activities.tjhsst.edu/cscplatform" target="_blank">Practice</a>
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="https://introctf.sites.tjhsst.edu/" target="_blank">introCTF</a>
                             <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="https://midctf.sites.tjhsst.edu/" target="_blank">midCTF</a>                            
+                            <a style="margin-bottom:5px;" class="btn-fw btn btn-primary btn-outline btn-lg" href="//tjctf.org" target="_blank">TJCTF</a>
                             <br/>
                         </div>
                         <div class="col-md-5 col-md-pull-7">

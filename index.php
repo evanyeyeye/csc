@@ -137,7 +137,7 @@
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Aneesh Boreda</p>
                                     <h4>Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/aneesh.jpg" alt="Aneesh Boreda">
+                                    <img class="img-responsive img-circle" src="images/officers/aneesh.jpg" alt="Aneesh Boreda">
                                 </div>
                             </div>
                         </div>

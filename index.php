@@ -106,7 +106,7 @@
                             <div class="col-md-4 col-xs-6 officer">
                                 <p class="lead">Saigautam Bonam</p>
                                 <h4>Statistician</h4>
-                                <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Saigautam Bonam">
+                                <img class="img-responsive img-circle" src="images/officers/saigautam.jpg" alt="Saigautam Bonam">
                             </div>
                         </div>
                         <div class="col-md-2"></div>

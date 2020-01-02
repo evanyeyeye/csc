@@ -64,5 +64,29 @@
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/1w9z87tTxYw7T9HSsG2PsO4WoLs5foUxFqtLA0tODzSU"]
         ]
-    }
+    },
+    "Sim Swapping": {
+        "date": "11/25/2019",
+        "body": "",
+        "level": 2,
+        "links": [
+            ["Presentation", "https://docs.google.com/presentation/d/1BcuWshxImplCkjWrahC4rceMoqO8uaixbhjnrxhiEyE"]
+        ]
+    },
+    "RSA 1": {
+        "date": "12/4/2019",
+        "body": "",
+        "level": 2,
+        "links": [
+            ["Presentation", "https://docs.google.com/presentation/d/10DfdfUYQ4AVlpf5oOcl-4K7Sj9J9JzF_dtGzrNrnCN0"]
+        ]
+    },
+    "RSA 2": {
+        "date": "12/11/2019",
+        "body": "",
+        "level": 2,
+        "links": [
+            ["Presentation", "https://docs.google.com/presentation/d/1V6UdZtKcJMRDcuo51Dkng8o6hcyE1XbxsQAOMdzsNWI"]
+        ]
+    }  
 }

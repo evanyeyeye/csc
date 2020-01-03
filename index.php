@@ -123,7 +123,7 @@
                                 <div class="col-xs-6 officer">
                                     <p class="lead">Johnny Pesavento</p>
                                     <h4>Lecturer</h4>
-                                    <img class="img-responsive img-circle" src="images/no_image_available.jpg" alt="Johnny Pesavento">
+                                    <img class="img-responsive img-circle" src="images/officers/johnny.jpg" alt="Johnny Pesavento">
                                 </div>
                             </div>
                         </div>

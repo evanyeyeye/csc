@@ -88,5 +88,29 @@
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/1V6UdZtKcJMRDcuo51Dkng8o6hcyE1XbxsQAOMdzsNWI"]
         ]
-    }  
+    },
+    "Steganography": {
+        "date": "1/12/2020",
+        "body": "",
+        "level": 1,
+        "links": [
+            ["Presentation", "https://docs.google.com/presentation/d/1jnNvSPR0JRJuw9E5VB49TtcYGC0GINlxXz0aM6CfSXc"]
+        ]
+    },    
+    "Python and Javascript Jailbreaking": {
+        "date": "2/12/2020",
+        "body": "",
+        "level": 2,
+        "links": [
+            ["Presentation", "https://docs.google.com/presentation/d/1gVv67B7cVSCQSQioRcP3olWIH0IZfJNbV4t7CTCcw-I"]
+        ]
+    },
+    "Assembly 1": {
+        "date": "2/19/2020",
+        "body": "",
+        "level": 3,
+        "links": [
+            ["Presentation", "https://docs.google.com/presentation/d/1Cir1_ddMD4dwpRdZL1FC_QRugqqRIuG-8fO6As94q18"]
+        ]
+    }
 }

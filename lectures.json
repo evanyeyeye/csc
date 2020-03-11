@@ -108,9 +108,33 @@
     "Assembly 1": {
         "date": "2/19/2020",
         "body": "",
-        "level": 3,
+        "level": 2,
         "links": [
             ["Presentation", "https://docs.google.com/presentation/d/1Cir1_ddMD4dwpRdZL1FC_QRugqqRIuG-8fO6As94q18"]
+        ]
+    },
+    "Assembly 2": {
+        "date": "2/26/2020",
+        "body": "",
+        "level": 3,
+        "links": [
+            ["Presentation", "https://docs.google.com/presentation/d/1KJyRzf8Ae8o-mrJT5yunMQKDRYYdRzAGIfZwxbkVGnA"]
+        ]
+    },
+    "Buffer Overflow": {
+        "date": "3/4/2020",
+        "body": "",
+        "level": 2,
+        "links": [
+            ["Presentation", "https://docs.google.com/presentation/d/1aY5JciIu5GwW1eqbvydhSav9HUqW1d03ERWoYDtVEiI"]
+        ]
+    },
+    "Format String Vulnerability": {
+        "date": "3/11/2020",
+        "body": "",
+        "level": 2,
+        "links": [
+            ["Presentation", "https://docs.google.com/presentation/d/1OUlH6X_yTPuRSbddfZ-8hFSIYjIETahv73qU50Gk6BU"]
         ]
     }
 }

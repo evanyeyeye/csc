@@ -1,4 +1,44 @@
 {
+    "TJCTF 2020": {
+        "url": "https://2020.angstromctf.com/",
+        "start_date": "5/22/2020 11:00:00",
+        "end_date": "5/26/2020 11:00:00",
+        "participants": [
+            [26"Hocus, Pocus, Your Team is Bogus",1400],
+            [55"Wow",1010],
+            [88,"OPSEC",720],
+            [127,"Zaqueems",570],
+            [156,"Lamebots",480],
+            [168,"blockchain",435],
+        ]
+    },    
+    "angstromCTF 2020": {
+        "url": "https://2020.angstromctf.com/",
+        "start_date": "3/14/2020 00:00:00",
+        "end_date": "3/19/2020 00:00:00",
+        "participants": [
+            [30,"tjcsc",3995],
+            [369,"Underdog Check Your Logs",1090],
+            [426,"4B1Y",935],
+            [744,"kryptonite",365],
+            [908,"Lamebots",245],
+            [1278,"Eternal Atake 4/10",90],
+            [1343,"crystalWorlds",60]
+        ]
+    },
+    "RUSecureCTF 2020": {
+        "url": "https://rusecurectf.radford.edu/",
+        "start_date": "2/24/2020 12:00:00",
+        "end_date": "3/6/2020 12:00:00",
+        "participants": [
+            [9,"TJCSC",101800],
+            [33,"3B1Y",54850],
+            [49,"TJHSST",22050],
+            [94,"Lamebots",6500],
+            [136,"blockchain",1800],
+            [166,"kryptonite",500]
+        ]
+    },    
     "CSAW CTF Final Round 2019": {
         "url": "http://ctf.csaw.io/",
         "start_date": "11/6/2019 19:00:00",
